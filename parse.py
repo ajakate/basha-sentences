@@ -6,28 +6,12 @@ me_matcher = r"I'|\bI\b|\bme\b|\bmy\b|\bmine\b|mysel"
 ye_matcher = r"\byou"
 we_matcher = r"\bwe\b|\bus\b|\bour"
 
-#### pull together speechlings:
-# files = os.listdir('./speechling')
-# sent_files = filter(lambda file: [e for e in file if e in "123"], files)
-# start = []
-# for f in sent_files:
-#     with open(f'speechling/{f}') as fi:
-#         for line in fi:
-#             start.append(line.split("\t")[0])
-####
-
-
-# INDIVIDUAL FIILE
 start = []
-with open('speechling/beg2.txt') as f:
+with open('speechling/beginner_3.txt') as f:
     for line in f:
-        start.append(line.split("\t")[0])
-# embed()
-
-
+        start.append(line.strip())
 
 finish = []
-
 
 for sentence in start:
     matches = False
@@ -51,11 +35,3 @@ for sentence in start:
 
 with open('test.txt', 'w') as f:
     f.write('\n'.join(finish))
-
-
-# embed()
-
-
-
-        # a,b = [f"(male speaker) {sentence}", f"(female speaker) {sentence}"]
-        # finish.extend([a,b])
