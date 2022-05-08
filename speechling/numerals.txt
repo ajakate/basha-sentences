@@ -1,11 +1,3 @@
-Sixty
-Seventy
-Eighty
-Ninety
-Hundred
-Thousand
-Million
-Billion
 Zero
 One
 Two
@@ -30,3 +22,11 @@ Twenty
 Thirty
 Forty
 Fifty
+Sixty
+Seventy
+Eighty
+Ninety
+Hundred
+Thousand
+Million
+Billion
