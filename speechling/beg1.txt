@@ -1,0 +1,138 @@
+And you?	¿Y tú?	
+No.	No.	
+Really?	¿En serio?	
+Great.	Genial.	
+Help!	¡Ayuda!	
+Please.	Por favor.	
+Yes.	Sí.	
+Stop!	¡Basta!	
+I know.	Lo sé.	
+Maybe.	Tal vez.	
+A little.	Un poco.	
+That way.	Por allá.	
+A few.	Unos cuantos.	
+Of course.	Por supuesto.	
+On the right.	A la derecha.	
+Okay.	Okay.	
+Which one?	¿Cuál?	
+"That's it."	Eso es todo.	
+Certainly!	¡Ciertamente!	
+I like it.	Me gusta.	
+What is that?	¿Qué es eso?	
+Who is that?	¿Quién es?	
+What is it?	¿Qué es?	
+Why not?	¿Por qué no?	
+Who is it?	¿Quién es?	
+"It's there."	Es allá.	
+On the left.	A la izquierda.	
+Excellent.	Excelente.	
+Thank you.	Gracias.	
+Hello.	Hola.	
+I remember.	Lo recuerdo.	
+I understand.	Entiendo.	
+All day.	Todo el día.	
+Try it.	Pruébalo.	
+Over there.	Por ahí.	
+"I'm good."	Estoy bien.	
+Who are you?	¿Quién eres?	
+"Isn't it?"	¿No es así?	
+Right there.	Justo ahí.	
+Where is it?	¿En dónde está?	
+Not yet.	Aún no.	
+It works.	Eso funciona.	
+Have you been?	¿Has estado?	
+"It's here."	Es aquí.	
+Here it is.	Aquí está.	
+Everyday.	Todos los días.	
+How are you?	¿Cómo estás?	
+I forget.	Lo olvidé.	
+One like that.	Uno como ese.	
+How many?	¿Cuántos?	
+I love you.	Te amo.	
+Tell me.	Dime.	
+Call me.	Llámame.	
+I agree.	Estoy de acuerdo.	
+Over here.	Por aquí.	
+Forget it.	Olvídalo.	
+Where is he?	¿Dónde está él?	
+Hurry!	¡Apúrate!	
+Where are you?	¿Dónde estás?	
+Next time.	A la próxima.	
+"What's this?"	¿Qué es esto?	
+Cheers!	¡Salud!	
+Here you are.	Aquí tienes.	
+Right here.	Justo aquí.	
+I think so.	Creo que sí.	
+Nonsense.	Sin sentido.	
+"Don't do that."	No hagas eso.	
+Who are they?	¿Quiénes son ellos?	
+Is that enough?	¿Eso es suficiente?	
+"You're right."	Tienes razón.	
+I believe you.	Yo te creo.	
+Is it free?	¿Es gratis?	
+"That's right."	Está bien.	
+Just a little.	Solo un poco.	
+"I'm full."	Estoy lleno.	
+More than that.	Más que eso.	
+Come here.	Ven aquí.	
+Follow me.	Sígueme.	
+Not recently.	No recientemente.	
+"I don't know."	No lo sé.	
+"What's in it?"	¿Qué hay en el?	
+I have money.	Tengo dinero.	
+Is it possible?	¿Es posible?	
+Is it close?	¿Está cerca?	
+Well done!	¡Bien hecho!	
+"I'm single."	Soy soltero.	
+Where were you?	¿Dónde estabas?	
+Are you sure?	¿Estás seguro (segura)?	
+At what time?	¿A qué hora?	
+Try it on.	Pruébatelo.	
+I was wrong.	Yo estaba equivocado.	
+"I'm happy."	Estoy feliz.	
+What happened?	¿Qué sucedió?	
+The light is on.	La luz está encendida.	
+"What's up?"	¿Qué sucede?	
+What size?	¿Qué talla?	
+Who won?	¿Quién ganó?	
+Is it ready?	¿Está listo?	
+"I'm sorry."	Lo siento.	
+"I'm ready."	Estoy listo.	
+Good idea.	Buena idea.	
+Is that ok?	¿Eso está bien?	
+Good morning.	Buenos días.	
+Take care.	Cuídate.	
+I trust you.	Confío en ti.	
+Be quiet.	Guarda silencio.	
+I give up.	Me rindo.	
+Yes, really.	Sí, realmente.	
+He thinks.	Él piensa.	
+Looks good.	Se ve bien.	
+"It's ok."	Está bien.	
+The whole day.	Todo el día.	
+"I'm ok."	Estoy bien.	
+Be careful.	Ten cuidado.	
+Which is better?	¿Cuál es mejor?	
+Waiter!	¡Mesero!	
+Is it hot?	¿Está caliente?	
+Never mind.	Ya no importa.	
+I believe in you.	Yo creo en usted.	
+"That's enough."	Eso es suficiente.	
+Eleven minus three is eight.	Once menos tres son ocho.	
+Turn right.	Gira a la derecha.	
+Are they the same?	¿Son lo mismo?	
+"I'm cold."	Tengo frío.	
+"I'm married."	Estoy casado.	
+Waitress!	¡Mesera!	
+Every week.	Todas las semanas.	
+Just a moment.	Solo un momento.	
+"I'm good, and you?"	Estoy bien ¿Y tú?	
+Are you ready?	¿Estás listo?	
+"That's wrong."	Eso está mal.	
+"They're the same."	Son iguales.	
+What time is it?	¿Qué hora es?	
+"I don't like it."	No me gusta.	
+"Let's go."	Vamos.	
+I feel good.	Me siento bien.	
+"I'm sick."	Estoy enfermo.	
+From time to time.	De vez en cuando.	
