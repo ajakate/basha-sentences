@@ -1,360 +1,357 @@
-Do you know how to drive?	¿Sabe como manejar?	
-"She's not listening to me."	Ella no me está escuchando.	
-"You don't have a skateboard."	No tienes una patineta.	
-Is it cold in your room?	¿Hace frío en tu cuarto?	
-Yes, but only a little.	Sí, pero solo un poco.	
-"We're eating dinner."	Estamos cenando.	
-That is an extensive list.	Esa es una lista extensa.	
-"I don't want to bother you."	No quiero molestarte.	
-Does she have a coat?	¿Ella tiene un abrigo?	
-The party was a big success.	La fiesta fue un gran éxito.	
-"They're looking at the sign."	Ellos están viendo el letrero.	
-She is a generous person.	Ella es una persona generosa.	
-Are you coming? -- Yes, I can.	¿Vas a venir? -- Sí, sí puedo.	
-She is interested in sports.	Ella está interesada en los deportes.	
-I have a lot of things to do.	Tengo muchas cosas que hacer.	
-Pick up your clothes.	Recoge tu ropa.	
-The roads are slippery.	Los caminos están resbalosos.	
-Does Nicolas own a motorcycle?	¿Nicolás tiene una motocicleta?	
-"He'll be back soon."	El estará de regreso pronto.	
-"I'll pay for dinner."	Yo pago la cena.	
-Who would you like to speak to?	¿Con quién quieres hablar?	
-"I don't speak very well."	No hablo muy bien.	
-Is it a formal occasion?	¿Es una ocasión formal?	
-Are you eligible for the job?	¿Usted es elegible para el trabajo?	
-They packed for the trip.	Ellos empacaron para el viaje.	
-The accusations were false.	Las acusaciones fueron falsas.	
-Why are you looking at her?	¿Por qué la estás mirando?	
-The Earth has seven continents.	La Tierra tiene siete continentes.	
-Elon Musk led the development of the Tesla car.	Elon Musk dirigió el desarrollo del automóvil Tesla.	
-This land belongs to me.	Esta tierra me pertenece.	
-"Where's the post office?"	¿Dónde está la oficina postal?	
-The weather is hot today.	El clima está caliente hoy.	
-"Who's the woman in the picture?"	¿Quién es la mujer en la foto?	
-"That's my mother."	Esa es mi mamá.	
-"It isn't warm today."	Hoy no hace calor.	
-Do you know what this means?	¿Sabes qué significa esto?	
-Do you know what this says?	¿Sabes qué dice esto?	
-We are lazy workers.	Somos trabajadores flojos.	
-"I don't know how to use it."	No se cómo usarlo.	
-I do not want to fight you.	No quiero luchar contigo.	
-We visited Bhutan last year.	Nosotros visitamos Bután el año pasado.	
-"I'm cleaning my room."	Estoy limpiando mi cuarto.	
-"Where's Julie from?"	¿De dónde es Julie?	
-"She's from London."	Ella es de Londres.	
-When is your business trip?	¿Cuándo es tu viaje de negocios?	
-I think it tastes good.	Creo que sabe muy bien.	
-"I'll call back later."	Llamo de vuelta más tarde.	
-"I don't speak very well."	No hablo muy bien.	
-Some days, I feel old.	Algunos días me siento viejo.	
-"I'd like to make a call."	Me gustaría hacer una llamada.	
-She was sick in bed.	Ella estaba enferma y en cama.	
-Are they coming this evening?	¿Van a venir esta noche?	
-My flight was delayed.	Mi vuelo se retrasó.	
-How much do you exercise?	¿Cuánto se ejercita?	
-"Where's your laptop?"	¿Dónde está tu laptop?	
-"It's in your bag."	Está en tu mochila.	
-Did it snow yesterday?	¿Nevó ayer?	
-These bags are light.	Estas bolsas son ligeras.	
-My shoes are cheap.	Mis zapatos son baratos.	
-What did you do?	¿Qué hiciste?	
-We visited the forest.	Nosotros visitamos el bosque.	
-What would you like to eat?	¿Qué le gustaría comer?	
-Please count this for me.	Por favor cuenta esto por mi.	
-I need some tissues.	Necesito algunos pañuelos.	
-Have you been waiting long?	¿Estuviste esperando mucho?	
-I am very wealthy.	Soy muy adinerado.	
-"She's watching TV."	Ella está viendo la tele.	
-Is there anything cheaper?	¿Hay algo más barato?	
-"Look, there's my mother."	Mira, ahí está mi mamá.	
-"Don't waste your money."	No malgaste su dinero.	
-What is your phone number?	¿Cuál es tu número de teléfono?	
-"I'd like to exchange this."	Quisiera intercambiar esto.	
-How much will it cost?	¿Cuánto va a costar?	
-What are your hobbies?	¿Cuáles son tus pasatiempos?	
-George is a successful businessman.	George es un hombre de negocios exitoso.	
-When are you going to eat?	¿Cuándo vas a comer?	
-Have you finished studying?	¿Ya terminaste de estudiar?	
-Is the library near here?	¿La biblioteca está cerca de aquí?	
-The president started this war.	El presidente inició esta guerra.	
-"He doesn't like basketball."	A él no le gusta el basketball.	
-Are you waiting for the train?	¿Estás esperando el tren?	
-"No, I'm not."	No, no lo estoy esperando.	
-My stomach hurts.	Me duele el estómago.	
-I need to change clothes.	Necesito cambiarme de ropa.	
-Do you have a question for me?	¿Tienes una pregunta para mí?	
-Can I bring my friend?	¿Puedo traer a mi amigo?	
-Are you coming this evening?	¿Vas a venir en la noche?	
-How old is Amanda?	¿Cuántos años tiene Amanda?	
-"She's twenty-seven (27)."	Tiene veintisiete (27).	
-Is this pen yours?	¿Esta pluma es tuya?	
-What color is that car?	¿De qué color es ese coche?	
-Does she like to dance?	¿A ella le gusta bailar?	
-"They don't have many friends."	Ellos no tienen muchos amigos.	
-"What's the exchange rate?"	¿Cuál es el tipo de cambio?	
-What school did you go to?	¿A qué escuela ibas?	
-"I'm very well, thank you."	Estoy muy bien, gracias.	
-Do you sell medicine?	¿Vendes medicina?	
-What do you fear most?	¿Qué es lo que más temes?	
-She was early for the date.	Ella llegó temprano a la cita.	
-Do I sound genuine?	¿Sueno genuino?	
-Do you want to go with me?	¿Quieres ir conmigo?	
-"They're playing basketball."	Están jugando basketball.	
-What are your children doing?	¿Qué están haciendo tus hijos?	
-"They're at school."	Están en la escuela.	
-Where is the bus station?	¿Dónde está la estación de autobuses?	
-"Sorry, we don't have any."	Lo siento, no tenemos ninguno.	
-The army attacked the city.	El ejército atacó la ciudad.	
-Are they shooting a video?	¿Están grabando un video?	
-The sweater is ugly.	El suéter es feo.	
-What do you want to buy?	¿Qué quieres comprar?	
-Leo got married.	Leo se casó.	
-"What's the exchange rate?"	¿Cuál es el tipo de cambio?	
-The shrine is sacred.	El santuario es sagrado.	
-Where are your children going?	¿A dónde van tus hijos?	
-"I don't have time right now."	No tengo tiempo ahora.	
-Are you in line to the bathroom?	¿Usted está en la fila hacia el baño?	
-You dropped your bag.	Usted dejó caer su bolso.	
-"He's a good painter."	Él es un buen pintor.	
-Where is the end of that road?	¿Dónde está el final de ese camino?	
-She lives in my area.	Ella vive en mi área.	
-You look like my sister.	Te pareces a mi hermana.	
-"He doesn't like cricket."	A él no le gusta el cricket.	
-"I'll talk to you soon."	Te hablaré pronto.	
-"I'm not interested in music."	No me interesa la música.	
-How long does it take?	¿Cuánto tiempo lleva?	
-I never study in bed.	Nunca estudio en la cama.	
-The big one or the small one?	¿El grande o el pequeño?	
-Can you repeat that please?	¿Podrías repetir eso por favor?	
-Is he riding a train?	¿Él está tomando un tren?	
-What would you like to drink?	¿Qué le gustaría tomar?	
-Where would you like to meet?	¿En dónde quieres que nos veamos?	
-"I'd like a refund."	Quisiera un reembolso.	
-The party is still ongoing.	La fiesta todavía está en curso.	
-Stop acting weird.	Deje de actuar raro.	
-Can I make an appointment?	¿Puedo hacer una cita?	
-I speak two languages.	Hablo dos idiomas.	
-They cannot trust him.	Ellos no pueden confiar en él.	
-Today is a warm day.	Hoy es un día cálido.	
-Would you like some wine?	¿Quieres un poco de vino?	
-Which road should I take?	¿Qué camino debería tomar?	
-He still works for the government.	Él aún trabaja para el gobierno.	
-"I'll come back later."	Regresaré al rato.	
-The possibilities are endless.	Las posibilidades son infinitas.	
-Love conquers all.	El amor lo conquista todo.	
-Her kids are at school.	Sus hijos están en la escuela.	
-Your house is very nice.	Tu casa es muy bonita.	
-What did you do yesterday?	¿Qué hiciste ayer?	
-"It's very cold today."	Hace mucho frío hoy.	
-He plays the flute.	Él toca la flauta.	
-Are you allergic to anything?	¿Eres alérgico a algo?	
-Water is essential to life.	El agua es esencial para la vida.	
-"My car isn't working."	Mi coche no está funcionando.	
-The new law was controversial.	La nueva ley fue controversial.	
-We play three sports.	Nosotros jugamos tres deportes.	
-The flu was widespread.	La gripe estaba muy extendida.	
-"I'm not listening to music."	No estoy escuchando música.	
-Does Rodrigo play volleyball?	¿Rodrigo juega volleyball?	
-Mondays are the worst.	Los lunes son los peores.	
-She always comes early.	Ella siempre viene temprano.	
-When does the bank open?	¿Cuándo abre el banco?	
-Can you do me a favor?	¿Puedes hacerme un favor?	
-Nobody is helping us.	Nadie nos está ayudando.	
-How much is it to go there?	¿Cuánto cuesta ir allá?	
-He was guilty of the crime.	Él era culpable del crimen.	
-How did you hear about Bhutan?	¿Cómo te enteraste de Bután?	
-Do you shoot videos?	¿Grabas videos?	
-Can you call back later?	¿Puedes llamar más tarde?	
-I miss my hometown.	Extraño mi ciudad natal.	
-Which does she like better?	¿Cuál le gusta más a ella?	
-What time did you get up?	¿A qué hora te levantaste?	
-Is your wife a nurse?	¿Tu esposa es enfermera?	
-"No, she's a doctor."	No, es doctora.	
-I only want a snack.	Solamente quiero una botana.	
-Did he smile at me?	¿Él me sonrió?	
-Her birthday is in September.	Su cumpleaños es en septiembre.	
-My health has been great!	¡Mi salud ha estado genial!	
-Nobody is there right now.	Nadie está ahí ahora.	
-Did you get my email?	¿Recibiste mi email?	
-Does he remember that night?	¿Él se acuerda de esa noche?	
-Do you want to come with me?	¿Quieres venir conmigo?	
-He was early last night.	Él llegó temprano anoche.	
-Please take me to the airport.	Por favor llévame al aeropuerto.	
-Is Emily from Japan?	¿Emily es de Japón?	
-"No, she's French."	No, es francesa.	
-Does she know the answer?	¿Ella sabe la respuesta?	
-What is the name of that song?	¿Cuál es el nombre de esa canción?	
-"He doesn't like his work."	A él no le gusta su trabajo.	
-Is that your final answer?	¿Es esa su respuesta final?	
-"He doesn't have a cat."	Él no tiene un gato.	
-Can I have the bill please?	¿Me puede traer la cuenta por favor?	
-Are the apples fresh?	¿Están frescas las manzanas?	
-That is a vulnerable position.	Esa es una posición vulnerable.	
-When does he arrive?	¿Cuándo llega él?	
-"They don't know many people."	Ellos no conocen a muchas personas.	
-"I still haven't decided."	Todavía no he decidido.	
-Does she trust him?	¿Ella confía en él?	
-When would you like to meet?	¿Cuándo quieres que nos veamos?	
-Does Wendy ever text you?	¿Wendy alguna vez te manda mensaje?	
-She is a unique person.	Ella es una persona única.	
-I walk around the building.	Camino por el edificio.	
-Do you like your boss?	¿Te agrada tu jefe?	
-"Let's go have a look."	Vamos a echar un vistazo.	
-The sandwich was awful.	El sandwich estuvo horrible.	
-Does she hate him?	¿Ella lo odia?	
-My dog is blind.	Mi perro está ciego.	
-"I'd like to go home."	Quisiera ir a casa.	
-Do you have any coffee?	¿Tienes café?	
-Can you carry this for me?	¿Puedes cargar esto por mi?	
-The old man is wise.	El viejo es sabio.	
-I spilled the milk.	Yo derramé la leche.	
-Is anyone else coming?	¿Viene alguien más?	
-I still have a lot to do.	Todavía tengo mucho que hacer.	
-What time does it start?	¿A que hora empieza?	
-"He doesn't have a girlfriend."	Él no tiene novia.	
-How do you spell it?	¿Cómo lo deletreas?	
-"What's your last name?"	¿Cuál es tu apellido?	
-Are there any concerts?	¿Hay algún concierto?	
-France is not in Asia.	Francia no está en Asia.	
-This is a rough situation.	Esta es una situación difícil.	
-"What is today's date?"	¿Cuál es la fecha de hoy?	
-"It's near the supermarket."	Está cerca del supermercado.	
-Please exit the building.	Por favor salga del edificio.	
-What is she doing?	¿Qué está haciendo ella?	
-"She's reading a book."	Ella está leyendo un libro.	
-How old is she?	¿Cuántos años tiene?	
-"She's twenty-eight (28)."	Tiene veintiocho (28).	
-What are you interested in?	¿Qué cosas te interesan?	
-"I'm interested in sports."	Me interesan los deportes.	
-"I'm coming right now."	Voy ahora mismo.	
-"I'm not ready yet."	Todavía no estoy listo.	
-You have beautiful skin.	Tienes una hermosa piel.	
-What day of the week is it?	¿Que día de la semana es?	
-Let me think about it.	Déjame pensarlo.	
-Do they like basketball?	¿A ellos les gusta el basketball?	
-Why are you so late?	¿Por qué llegas tan tarde?	
-"I'm reading the newspaper."	Estoy leyendo el periódico.	
-"Where's your friend?"	¿Dónde está tu amigo?	
-"He's in the bathroom."	Está en el baño.	
-When are you coming back?	¿Cuándo vas a regresar?	
-My back is hurting.	Mi espalda duele.	
-When did you arrive?	¿Cuándo llegaste?	
-The argument was intense.	La discusión fue intensa.	
-Did you see Fred yesterday?	¿Viste a Fred ayer?	
-"I'll have the same thing."	Pediré lo mismo.	
-I saw Monisha last night.	Ayer por la noche vi a Monisha.	
-You have brown hair.	Tú tienes cabello castaño.	
-Are you interested in music?	¿Te interesa la música?	
-I like to watch TV.	Me gusta ver la televisión.	
-Where does it hurt?	¿Dónde te duele?	
-This lake is deep.	Este lago es profundo.	
-Are you willing to do it?	¿Está dispuesto a hacerlo?	
-"What's the matter with her?"	¿Cuál es el problema con ella?	
-How does it taste?	¿Qué tal sabe?	
-What is the name of the county?	¿Cuál es el nombre del condado?	
-Fill it up, please.	Llénalo, por favor.	
-When do we arrive?	¿Cuándo llegaremos?	
-Your things are all here.	Todas tus cosas están aquí.	
-Are you waiting for someone?	¿Estás esperando a alguien?	
-We watched videos.	Nosotros vimos los videos.	
-Where would you like to go?	¿A dónde te gustaría ir?	
-Does your car work?	¿Tu coche funciona?	
-"No, it doesn't work."	No, no funciona.	
-Would you like some water?	¿Quieres un poco de agua?	
-Where are you going to go?	¿A dónde vas a ir?	
-"It's not very expensive."	No está tan caro.	
-We made an error.	Nosotros cometimos un error.	
-"How's work going?"	¿Cómo va el trabajo?	
-Would you like to buy this?	¿Te gustaría comprar esto?	
-I cannot guarantee it.	No puedo garantizarlo.	
-What time is check out?	¿A qué hora es el check out?	
-"You don't like wrestling."	A tí no te gusta la lucha libre.	
-"It's sunny today."	Hoy está soleado.	
-The Earth is not flat.	La Tierra no es plana.	
-Do you have a pencil?	¿Tienes un lápiz?	
-For how many nights?	¿Por cuántas noches?	
-Is it sunny today?	¿Está soleado hoy?	
-Yes, it is.	Sí, sí hay sol.	
-Who arranged the event?	¿Quién organizó el evento?	
-How long will it take?	¿Cuánto tiempo llevará?	
-Here is your salad.	Aquí está tu ensalada.	
-Was it everything you expected?	¿Era todo lo que esperaba?	
-You have a beautiful voice.	Usted tiene una hermosa voz.	
-Are you going to help her?	¿La vas a ayudar?	
-What do you do for work?	¿En qué trabajas?	
-She took a bath.	Ella se dio un baño.	
-"It's very windy."	Hay mucho viento.	
-I am being honest.	Estoy siendo honesto.	
-Is your father at home?	¿Tu papá está en casa?	
-Are those new shoes?	¿Esos zapatos son nuevos?	
-Please write it down.	Por favor escríbelo.	
-Have you seen Josh?	¿Has visto a Josh?	
-Can we study outside?	¿Podemos estudiar afuera?	
-The comedian was funny.	El comediante fue divertido.	
-The Jamaicans love the bobsled.	Los jamaiquinos aman el bobsled.	
-What does he like to do?	¿A él qué le gusta hacer?	
-When does it arrive?	¿Cuándo llega?	
-You look beautiful today.	Usted se ve hermosa hoy.	
-"What's the room rate?"	¿Cuál es el precio de la habitación?	
-She is very wealthy.	Ella es muy rica.	
-Where is an ATM?	¿Dónde hay cajero automático?	
-I want to show you something.	Quiero mostrarte algo.	
-He is a remarkable man.	Él es un hombre notable.	
-"It's true. I believe it."	Es verdad. Yo lo creo.	
-Tell me your secret.	Cuénteme su secreto.	
-"It's often sunny."	Seguido está soleado.	
-She lives downtown.	Ella vive en el centro.	
-I like small towns.	Me gustan los pueblos pequeños.	
-"They're waiting for us."	Nos están esperando.	
-She has long hair.	Ella tiene pelo largo.	
-I never go to the movies.	Nunca voy al cine.	
-"Where's the pharmacy?"	¿En dónde está la farmacia?	
-"I'm taking a shower."	Me estoy bañando.	
-Are you a competitive person?	¿Es usted una persona competitiva?	
-Are your children at home?	¿Tus hijos están en casa?	
-"No, they're out."	No, salieron.	
-Do you have enough money?	¿Tienes suficiente dinero?	
-Can you hold this for me?	¿Puedes sostener esto por mi por favor?	
-Do you play basketball?	¿Juegas basketball?	
-"They'll be right back."	Ellos volverán pronto.	
-There are many people here.	Hay mucha gente aquí.	
-I care about you a lot.	Usted me importa mucho.	
-Do you go there often?	¿Vas ahí muy seguido?	
-"You don't have any evidence."	Usted no tiene ninguna evidencia.	
-He is a handsome man.	Él es un hombre guapo.	
-Seventy people attended the event.	Setenta personas asistieron al evento.	
-Have you eaten yet?	¿Ya comiste?	
-Who is the author of the book?	¿Quién es el autor del libro?.	
-She looks pale.	Ella se ve pálida.	
-Practice makes perfect.	La práctica hace a la perfección.	
-"I don't have enough money."	No tengo suficiente dinero.	
-Can I use your phone?	¿Puedo usar tu teléfono?	
-Can you come to my house?	¿Puede venir a mi casa?	
-Where do you want to go?	¿A dónde quieres ir?	
-The book is under the table.	El libro está debajo de la mesa.	
-"You've been to Shanghai twice."	Tú has estado en Shanghai dos veces.	
-"How's your brother?"	¿Cómo está tu hermano?	
-"He's okay."	Está bien.	
-"How's your brother?"	¿Cómo está tu hermano?	
-"He's doing great."	Está muy bien.	
-Have you seen this movie?	¿Ya viste esta película?	
-Steve Jobs started a big company.	Steve Jobs inició una gran compañía.	
-It depends on the weather.	Depende del clima.	
-"I'll take that one also."	Me llevaré ese también.	
-Is he ordering anything?	¿Él va a ordenar algo?	
-"No, he isn't."	No, no lo va a hacer.	
-This room is a mess.	Este cuarto es un desorden.	
-This is a complicated problem.	Este es un problema complicado.	
-My window is broken.	Mi ventana está rota.	
-Where did you learn it?	¿Dónde lo aprendiste?	
-Who sent this letter?	¿Quién envió esta carta?	
-Shut the door, please.	Cierra la puerta, por favor.	
-Are your parents at work?	¿Tus padres están en el trabajo?	
-Where can I mail this?	¿En dónde puedo enviar esto?	
-"I'm not eating anything."	No estoy comiendo nada.	
-"He's waiting in line."	Él está formado en la fila.	
-He is alone right now.	Él está solo ahora.	
-"Do you think it's possible?"	¿Piensas que es posible?	
-"We're having lunch."	Estamos almorzando.	
-Do you have an appointment?	¿Tienes una cita?	
-"I'll give you a call."	Te llamaré.	
+Do you know how to drive?
+"She's not listening to me."
+"You don't have a skateboard."
+Is it cold in your room?
+Yes, but only a little.
+"We're eating dinner."
+That is an extensive list.
+"I don't want to bother you."
+Does she have a coat?
+The party was a big success.
+"They're looking at the sign."
+She is a generous person.
+Are you coming? -- Yes, I can.
+She is interested in sports.
+I have a lot of things to do.
+Pick up your clothes.
+The roads are slippery.
+Does Nicolas own a motorcycle?
+"He'll be back soon."
+"I'll pay for dinner."
+Who would you like to speak to?
+"I don't speak very well."
+Is it a formal occasion?
+Are you eligible for the job?
+They packed for the trip.
+The accusations were false.
+Why are you looking at her?
+The Earth has seven continents.
+Elon Musk led the development of the Tesla car.
+This land belongs to me.
+"Where's the post office?"
+The weather is hot today.
+"Who's the woman in the picture?"
+"That's my mother."
+"It isn't warm today."
+Do you know what this means?
+Do you know what this says?
+We are lazy workers.
+"I don't know how to use it."
+I do not want to fight you.
+We visited Bhutan last year.
+"I'm cleaning my room."
+"Where's Julie from?"
+"She's from London."
+When is your business trip?
+I think it tastes good.
+"I'll call back later."
+Some days, I feel old.
+"I'd like to make a call."
+She was sick in bed.
+Are they coming this evening?
+My flight was delayed.
+How much do you exercise?
+"Where's your laptop?"
+"It's in your bag."
+Did it snow yesterday?
+These bags are light.
+My shoes are cheap.
+What did you do?
+We visited the forest.
+What would you like to eat?
+Please count this for me.
+I need some tissues.
+Have you been waiting long?
+I am very wealthy.
+"She's watching TV."
+Is there anything cheaper?
+"Look, there's my mother."
+"Don't waste your money."
+What is your phone number?
+"I'd like to exchange this."
+How much will it cost?
+What are your hobbies?
+George is a successful businessman.
+When are you going to eat?
+Have you finished studying?
+Is the library near here?
+The president started this war.
+"He doesn't like basketball."
+Are you waiting for the train?
+"No, I'm not."
+My stomach hurts.
+I need to change clothes.
+Do you have a question for me?
+Can I bring my friend?
+Are you coming this evening?
+How old is Amanda?
+"She's twenty-seven (27)."
+Is this pen yours?
+What color is that car?
+Does she like to dance?
+"They don't have many friends."
+"What's the exchange rate?"
+What school did you go to?
+"I'm very well, thank you."
+Do you sell medicine?
+What do you fear most?
+She was early for the date.
+Do I sound genuine?
+Do you want to go with me?
+"They're playing basketball."
+What are your children doing?
+"They're at school."
+Where is the bus station?
+"Sorry, we don't have any."
+The army attacked the city.
+Are they shooting a video?
+The sweater is ugly.
+What do you want to buy?
+Leo got married.
+The shrine is sacred.
+Where are your children going?
+"I don't have time right now."
+Are you in line to the bathroom?
+You dropped your bag.
+"He's a good painter."
+Where is the end of that road?
+She lives in my area.
+You look like my sister.
+"He doesn't like cricket."
+"I'll talk to you soon."
+"I'm not interested in music."
+How long does it take?
+I never study in bed.
+The big one or the small one?
+Can you repeat that please?
+Is he riding a train?
+What would you like to drink?
+Where would you like to meet?
+"I'd like a refund."
+The party is still ongoing.
+Stop acting weird.
+Can I make an appointment?
+I speak two languages.
+They cannot trust him.
+Today is a warm day.
+Would you like some wine?
+Which road should I take?
+He still works for the government.
+"I'll come back later."
+The possibilities are endless.
+Love conquers all.
+Her kids are at school.
+Your house is very nice.
+What did you do yesterday?
+"It's very cold today."
+He plays the flute.
+Are you allergic to anything?
+Water is essential to life.
+"My car isn't working."
+The new law was controversial.
+We play three sports.
+The flu was widespread.
+"I'm not listening to music."
+Does Rodrigo play volleyball?
+Mondays are the worst.
+She always comes early.
+When does the bank open?
+Can you do me a favor?
+Nobody is helping us.
+How much is it to go there?
+He was guilty of the crime.
+How did you hear about Bhutan?
+Do you shoot videos?
+Can you call back later?
+I miss my hometown.
+Which does she like better?
+What time did you get up?
+Is your wife a nurse?
+"No, she's a doctor."
+I only want a snack.
+Did he smile at me?
+Her birthday is in September.
+My health has been great!
+Nobody is there right now.
+Did you get my email?
+Does he remember that night?
+Do you want to come with me?
+He was early last night.
+Please take me to the airport.
+Is Emily from Japan?
+"No, she's French."
+Does she know the answer?
+What is the name of that song?
+"He doesn't like his work."
+Is that your final answer?
+"He doesn't have a cat."
+Can I have the bill please?
+Are the apples fresh?
+That is a vulnerable position.
+When does he arrive?
+"They don't know many people."
+"I still haven't decided."
+Does she trust him?
+When would you like to meet?
+Does Wendy ever text you?
+She is a unique person.
+I walk around the building.
+Do you like your boss?
+"Let's go have a look."
+The sandwich was awful.
+Does she hate him?
+My dog is blind.
+"I'd like to go home."
+Do you have any coffee?
+Can you carry this for me?
+The old man is wise.
+I spilled the milk.
+Is anyone else coming?
+I still have a lot to do.
+What time does it start?
+"He doesn't have a girlfriend."
+How do you spell it?
+"What's your last name?"
+Are there any concerts?
+France is not in Asia.
+This is a rough situation.
+"What is today's date?"
+"It's near the supermarket."
+Please exit the building.
+What is she doing?
+"She's reading a book."
+How old is she?
+"She's twenty-eight (28)."
+What are you interested in?
+"I'm interested in sports."
+"I'm coming right now."
+"I'm not ready yet."
+You have beautiful skin.
+What day of the week is it?
+Let me think about it.
+Do they like basketball?
+Why are you so late?
+"I'm reading the newspaper."
+"Where's your friend?"
+"He's in the bathroom."
+When are you coming back?
+My back is hurting.
+When did you arrive?
+The argument was intense.
+Did you see Fred yesterday?
+"I'll have the same thing."
+I saw Monisha last night.
+You have brown hair.
+Are you interested in music?
+I like to watch TV.
+Where does it hurt?
+This lake is deep.
+Are you willing to do it?
+"What's the matter with her?"
+How does it taste?
+What is the name of the county?
+Fill it up, please.
+When do we arrive?
+Your things are all here.
+Are you waiting for someone?
+We watched videos.
+Where would you like to go?
+Does your car work?
+"No, it doesn't work."
+Would you like some water?
+Where are you going to go?
+"It's not very expensive."
+We made an error.
+"How's work going?"
+Would you like to buy this?
+I cannot guarantee it.
+What time is check out?
+"You don't like wrestling."
+"It's sunny today."
+The Earth is not flat.
+Do you have a pencil?
+For how many nights?
+Is it sunny today?
+Yes, it is.
+Who arranged the event?
+How long will it take?
+Here is your salad.
+Was it everything you expected?
+You have a beautiful voice.
+Are you going to help her?
+What do you do for work?
+She took a bath.
+"It's very windy."
+I am being honest.
+Is your father at home?
+Are those new shoes?
+Please write it down.
+Have you seen Josh?
+Can we study outside?
+The comedian was funny.
+The Jamaicans love the bobsled.
+What does he like to do?
+When does it arrive?
+You look beautiful today.
+"What's the room rate?"
+She is very wealthy.
+Where is an ATM?
+I want to show you something.
+He is a remarkable man.
+"It's true. I believe it."
+Tell me your secret.
+"It's often sunny."
+She lives downtown.
+I like small towns.
+"They're waiting for us."
+She has long hair.
+I never go to the movies.
+"Where's the pharmacy?"
+"I'm taking a shower."
+Are you a competitive person?
+Are your children at home?
+"No, they're out."
+Do you have enough money?
+Can you hold this for me?
+Do you play basketball?
+"They'll be right back."
+There are many people here.
+I care about you a lot.
+Do you go there often?
+"You don't have any evidence."
+He is a handsome man.
+Seventy people attended the event.
+Have you eaten yet?
+Who is the author of the book?
+She looks pale.
+Practice makes perfect.
+"I don't have enough money."
+Can I use your phone?
+Can you come to my house?
+Where do you want to go?
+The book is under the table.
+"You've been to Shanghai twice."
+"How's your brother?"
+"He's okay."
+"He's doing great."
+Have you seen this movie?
+Steve Jobs started a big company.
+It depends on the weather.
+"I'll take that one also."
+Is he ordering anything?
+"No, he isn't."
+This room is a mess.
+This is a complicated problem.
+My window is broken.
+Where did you learn it?
+Who sent this letter?
+Shut the door, please.
+Are your parents at work?
+Where can I mail this?
+"I'm not eating anything."
+"He's waiting in line."
+He is alone right now.
+"Do you think it's possible?"
+"We're having lunch."
+Do you have an appointment?
+"I'll give you a call."

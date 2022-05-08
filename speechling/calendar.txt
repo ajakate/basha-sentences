@@ -1,23 +1,23 @@
-January	Enero	
-February	Febrero	
-March	Marzo	
-April	Abril	
-May	Mayo	
-June	Junio	
-July	Julio	
-August	Agosto	
-September	Septiembre	
-October	Octubre	
-November	Noviembre	
-December	Diciembre	
-Monday	Lunes	
-Tuesday	Martes	
-Wednesday	Miércoles	
-Thursday	Jueves	
-Friday	Viernes	
-Saturday	Sábado	
-Sunday	Domingo	
-Spring	Primavera	
-Summer	Verano	
-Autumn	Otoño	
-Winter	Invierno	
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Spring
+Summer
+Autumn
+Winter

@@ -1,32 +1,32 @@
-Sixty	Sesenta	
-Seventy	Setenta	
-Eighty	Ochenta	
-Ninety	Noventa	
-Hundred	Cien	
-Thousand	Mil	
-Million	Millón	
-Billion	Billón	
-Zero	Cero	
-One	Uno	
-Two	Dos	
-Three	Tres	
-Four	Cuatro	
-Five	Cinco	
-Six	Seis	
-Seven	Siete	
-Eight	Ocho	
-Nine	Nueve	
-Ten	Diez	
-Eleven	Once	
-Twelve	Doce	
-Thirteen	Trece	
-Fourteen	Catorce	
-Fifteen	Quince	
-Sixteen	Dieciséis	
-Seventeen	Diecisiete	
-Eighteen	Dieciocho	
-Nineteen	Diecinueve	
-Twenty	Veinte	
-Thirty	Treinta	
-Forty	Cuarenta	
-Fifty	Cincuenta	
+Sixty
+Seventy
+Eighty
+Ninety
+Hundred
+Thousand
+Million
+Billion
+Zero
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Nine
+Ten
+Eleven
+Twelve
+Thirteen
+Fourteen
+Fifteen
+Sixteen
+Seventeen
+Eighteen
+Nineteen
+Twenty
+Thirty
+Forty
+Fifty

@@ -1,499 +1,499 @@
-Relate	Identificar	
-Investigate	Investigar	
-Slip	Resbalar	
-Preserve	Conservar	
-Demonstrate	Demostrar	
-Complain	Quejar	
-Trace	Trazar	
-Hurry	Darse prisa	
-Pour	Verter	
-Communicate	Comunicar	
-Tap	Tocar	
-Adopt	Adoptar	
-Dig	Cavar	
-Attract	Atraer	
-Ski	Esquiar	
-Yield	Ceder	
-Retain	Retener	
-Swim	Nadar	
-Install	Instalar	
-Brush	Cepillar	
-Resist	Resistir	
-Eliminate	Eliminar	
-Urge	Instar	
-React	Reaccionar	
-Highlight	Subrayar	
-Snap	Chasquear	
-Apologize	Pedir disculpas	
-Wrap	Envolver	
-Observe	Observar	
-Disappear	Desaparecer	
-Owe	Deber	
-Pose	Posar	
-Combine	Combinar	
-Flip	Voltear	
-Lean	Apoyar	
-Divide	Dividir	
-Concentrate	Concentrar	
-Spray	Rociar	
-Adjust	Ajustar	
-Resume	Reanudar	
-Freeze	Congelar	
-Reject	Rechazar	
-Assess	Evaluar	
-Advise	Aconsejar	
-Transform	Transformar	
-Predict	Predecir	
-Fold	Doblar	
-Conclude	Concluir	
-Propose	Proponer	
-Behave	Comportar	
-Beg	Suplicar	
-Warn	Advertir	
-Disagree	Discrepar	
-Arrange	Organizar	
-Retire	Retirar	
-Organize	Organizar	
-Admire	Admirar	
-Insert	Insertar	
-Occupy	Ocupar	
-Evaluate	Evaluar	
-Weigh	Pesar	
-Construct	Construir	
-Emerge	Emerger	
-Dip	Mojar	
-Exceed	Exceder	
-Blend	Mezclar	
-Slice	Cortar	
-Employ	Emplear	
-Lend	Prestar	
-Rub	Frotar	
-Float	Flotar	
-Threaten	Amenazar	
-Stir	Revolver	
-Melt	Derretir	
-Stare	Mirar fijamente	
-Squeeze	Exprimir	
-Consult	Consultar	
-Spill	Derramar	
-Consume	Consumir	
-Analyze	Analizar	
-Toss	Tirar	
-Confront	Enfrentar	
-Bake	Hornear	
-Peel	Pelar	
-Attach	Adjuntar	
-Surround	Rodear	
-Emphasize	Enfatizar	
-Beware	Tener cuidado	
-Resemble	Parecer	
-Cite	Citar	
-Persist	Persistir	
-Dissolve	Disolver	
-Commute	Viajar	
-Rinse	Enjuagar	
-Discard	Tirar	
-Refrigerate	Refrigerar	
-E-Mail	Enviar Correo Electronico	
-Crack	Rajar	
-Reveal	Revelar	
-Collect	Coleccionar	
-Estimate	Estimar	
-Assist	Ayudar	
-Extend	Extender	
-Exit	Salir	
-Regret	Arrepentir	
-Deny	Negar	
-Knock	Golpear	
-Compete	Competir	
-Invite	Invitar	
-Shake	Sacudir	
-Expand	Expandir	
-Remind	Recordar	
-Involve	Implicar	
-Contribute	Contribuir	
-Submit	Enviar	
-Hire	Contratar	
-Spin	Girar	
-Stretch	Estirar	
-Pretend	Fingir	
-Forgive	Perdonar	
-Rely	Confiar	
-Succeed	Tener éxito	
-Permit	Permitir	
-Explore	Explorar	
-Enable	Permitir	
-Pursue	Perseguir	
-Praise	Elogiar	
-Proceed	Proceder	
-Volunteer	Ser voluntario	
-Relax	Relajar	
-Breathe	Respirar	
-Climb	Trepar	
-Gather	Recoger	
-Invest	Invertir	
-Drag	Arrastrar	
-Examine	Examinar	
-Skip	Saltar	
-Stem	Provenir	
-Depend	Depender	
-Discover	Descubrir	
-Crash	Estrellar	
-Promote	Promover	
-Recognize	Reconocer	
-Attend	Asistir	
-Witness	Ser testigo	
-Deserve	Merecer	
-Prefer	Preferir	
-Deliver	Entregar	
-Switch	Cambiar	
-Hide	Esconder	
-Excuse	Excusar	
-Smell	Oler	
-Tip	Dar propina	
-Destroy	Destruir	
-Repeat	Repetir	
-Tie	Atar	
-Survive	Sobrevivir	
-Swear	Jurar	
-Rent	Alquilar	
-Lift	Levantar	
-Operate	Operar	
-Select	Seleccionar	
-Hunt	Cazar	
-Paint	Pintar	
-Defend	Defender	
-Ignore	Ignorar	
-Rush	Apresurar	
-Argue	Discutir	
-Pray	Rezar	
-Suffer	Sufrir	
-Rescue	Rescatar	
-Celebrate	Celebrar	
-Marry	Casar	
-Grab	Agarrar	
-Lock	Cerrar	
-Quote	Citar	
-Confirm	Confirmar	
-Encourage	Animar	
-Steal	Robar	
-Compare	Comparar	
-Solve	Resolver	
-Belong	Pertenecer	
-Chase	Perseguir	
-Capture	Capturar	
-Recommend	Recomendar	
-Earn	Ganar	
-Refuse	Rechazar	
-Guarantee	Garantizar	
-Arrive	Llegar	
-Comfort	Consolar	
-Participate	Participar	
-Wash	Lavar	
-Connect	Conectar	
-Define	Definir	
-Graduate	Graduar	
-Introduce	Presentar	
-Burn	Quemar	
-Manage	Manejar	
-Regard	Considerar	
-Quit	Renunciar	
-Shoot	Disparar	
-Grant	Conceder	
-Kick	Patear	
-Remove	Quitar	
-Struggle	Luchar	
-Mix	Mezclar	
-Update	Actualizar	
-Determine	Determinar	
-Escape	Escapar	
-Jump	Saltar	
-Discuss	Discutir	
-Perform	Representar	
-Launch	Lanzar	
-Maintain	Mantener	
-Laugh	Reír	
-Suppose	Suponer	
-Teach	Enseñar	
-Cook	Cocinar	
-Split	Dividir	
-Feed	Alimentar	
-Represent	Representar	
-Fill	Llenar	
-Fail	Perder	
-Reserve	Reservar	
-Desire	Desear	
-Smile	Sonreír	
-Pack	Empacar	
-Blame	Culpar	
-Describe	Describir	
-Cry	Llorar	
-Affect	Afectar	
-Hang	Colgar	
-Assume	Asumir	
-Blow	Exhalar	
-Kiss	Besar	
-Load	Cargar	
-Achieve	Lograr	
-Occur	Ocurrir	
-Replace	Reemplazar	
-Contain	Contener	
-Admit	Admitir	
-Respond	Responder	
-Print	Imprimir	
-Identify	Identificar	
-Sing	Cantar	
-Calm	Calmar	
-Register	Registrar	
-Prepare	Preparar	
-Produce	Producir	
-Receive	Recibir	
-Draw	Dibujar	
-Realize	Darse cuenta	
-Pop	Explotar	
-Throw	Lanzar	
-Ride	Manejar	
-Shut	Cerrar	
-Prevent	Prevenir	
-Score	Anotar	
-Ring	Sonar	
-Benefit	Beneficiar	
-Correct	Corregir	
-Exist	Existir	
-Decide	Decidir	
-Bet	Apostar	
-Waste	Malgastar	
-Improve	Mejorar	
-Guide	Guiar	
-Pull	Tirar	
-Fly	Volar	
-Apply	Aplicar	
-Require	Requerir	
-Develop	Desarrollar	
-Push	Presionar	
-Prove	Probar	
-Wake	Levantar	
-Suggest	Sugerir	
-Handle	Manejar	
-Feature	Presentar	
-Mention	Mencionar	
-Taste	Saber	
-Limit	Limitar	
-Smoke	Fumar	
-Bear	Soportar	
-Warm	Calentar	
-Treat	Tratar	
-Reduce	Reducir	
-Exercise	Ejercitar	
-Measure	Medir	
-Dry	Secar	
-Appreciate	Agradecer	
-Promise	Prometer	
-Grade	Calificar	
-Transfer	Transbordar	
-Dress	Vestir	
-Fix	Reparar	
-Ensure	Asegurar	
-Sell	Vender	
-Plant	Plantar	
-Avoid	Evitar	
-Sit	Sentar	
-Wonder	Preguntar	
-Touch	Tocar	
-Protect	Proteger	
-Accept	Aceptar	
-Imagine	Imaginar	
-Click	Hacer clic	
-Wear	Vestir	
-Separate	Separar	
-Fit	Ajustar	
-Finish	Terminar	
-Enter	Ingresar	
-Attempt	Intentar	
-Slow	Reducir	
-Heat	Calentar	
-Challenge	Desafiar	
-Serve	Servir	
-Worry	Preocupar	
-Count	Contar	
-Rise	Aumentar	
-Catch	Capturar	
-Comment	Comentar	
-Lie	Mentir	
-Spread	Esparcir	
-Create	Crear	
-Pick	Elegir	
-Cross	Cruzar	
-Allow	Permitir	
-Listen	Escuchar	
-Search	Buscar	
-Write	Escribir	
-Charge	Cargar	
-Welcome	Dar bienvenida	
-Consider	Considerar	
-Double	Duplicar	
-Link	Vincular	
-Train	Entrenar	
-Focus	Concentrar	
-Build	Construir	
-Beat	Ganar	
-Fear	Tener miedo	
-Expect	Esperar	
-Approach	Abordar	
-Drop	Dejar caer	
-Lack	Carecer	
-Travel	Viajar	
-Reach	Alcanzar	
-Hurt	Doler	
-Store	Almacenar	
-Choose	Escoger	
-Judge	Juzgar	
-Spend	Gastar	
-Carry	Llevar	
-Notice	Darse cuenta	
-Dance	Bailar	
-Clean	Limpiar	
-Drink	Beber	
-Explain	Explicar	
-Agree	Estar de acuerdo	
-Doubt	Dudar	
-Dream	Soñar	
-Remain	Permanecer	
-Can	Poder	
-Like	Gustar	
-See	Ver	
-Know	Saber	
-Think	Pensar	
-Go	Ir	
-Make	Hacer	
-Want	Querer	
-Need	Necesitar	
-Work	Trabajar	
-Take	Tomar	
-Say	Decir	
-Use	Usar	
-Love	Encantar	
-Come	Venir	
-Look	Mirar	
-Find	Encontrar	
-Own	Tener	
-State	Indicar	
-Help	Ayudar	
-Give	Dar	
-End	Terminar	
-Feel	Sentir	
-Put	Poner	
-Name	Nombrar	
-Show	Mostrar	
-Keep	Seguir	
-Let	Dejar	
-Play	Jugar	
-Point	Apuntar	
-Change	Cambiar	
-Care	Cuidar	
-Mean	Querer decir	
-Live	Vivir	
-Head	Dirigir	
-Tell	Contar	
-Start	Comenzar	
-Order	Ordenar	
-Call	Llamar	
-Read	Leer	
-Support	Apoyar	
-Thank	Agradecer	
-Stop	Dejar	
-Open	Abrir	
-Believe	Creer	
-Run	Correr	
-Try	Tratar	
-Become	Convertir	
-Hope	Esperar	
-Talk	Hablar	
-Close	Cerrar	
-Wait	Esperar	
-Matter	Importar	
-Act	Actuar	
-Remember	Recordar	
-Cause	Causar	
-Ask	Hacer	
-Pay	Pagar	
-Understand	Entender	
-Hit	Golpear	
-Turn	Girar	
-Win	Ganar	
-Leave	Ir	
-Light	Encender	
-Move	Mover	
-Stay	Quedar	
-Watch	Ver	
-Meet	Conocer	
-Deal	Lidiar	
-List	Enumerar	
-Study	Estudiar	
-Fire	Despedir	
-Check	Revisar	
-Force	Forzar	
-Plan	Planear	
-Bring	Traer	
-Return	Regresar	
-Buy	Comprar	
-Present	Presentar	
-Miss	Extrañar	
-Rest	Descansar	
-Program	Programar	
-Include	Incluir	
-Fight	Luchar	
-Cost	Costar	
-Hear	Oír	
-Cut	Cortar	
-Sense	Sentir	
-Test	Evaluar	
-Press	Presionar	
-Wish	Desear	
-Trade	Intercambiar	
-Hold	Aferrar	
-Record	Grabar	
-Guess	Adivinar	
-Answer	Responder	
-Follow	Seguir	
-Learn	Aprender	
-Break	Romper	
-Happen	Suceder	
-Design	Diseñar	
-Share	Compartir	
-Eat	Comer	
-Die	Morir	
-Step	Entrar	
-Lower	Reducir	
-Send	Enviar	
-Fall	Caer	
-Provide	Proporcionar	
-Stand	Estar	
-Risk	Arriesgar	
-Trust	Confiar	
-Increase	Aumentar	
-Save	Salvar	
-Review	Revisar	
-Kill	Matar	
-Drive	Manejar	
-Continue	Continuar	
-Complete	Completar	
-Release	Liberar	
-Hate	Odiar	
-Add	Agregar	
-Respect	Respetar	
-Seem	Parecer	
-Attack	Atacar	
-Vote	Votar	
-Sign	Firmar	
-Walk	Caminar	
-Contact	Contactar	
-Lose	Perder	
-Access	Acceder	
-Offer	Ofrecer	
-Visit	Visitar	
-Sleep	Dormir	
-Race	Correr	
-Forget	Olvidar	
-Speak	Hablar	
-Enjoy	Disfrutar	
+Relate
+Investigate
+Slip
+Preserve
+Demonstrate
+Complain
+Trace
+Hurry
+Pour
+Communicate
+Tap
+Adopt
+Dig
+Attract
+Ski
+Yield
+Retain
+Swim
+Install
+Brush
+Resist
+Eliminate
+Urge
+React
+Highlight
+Snap
+Apologize
+Wrap
+Observe
+Disappear
+Owe
+Pose
+Combine
+Flip
+Lean
+Divide
+Concentrate
+Spray
+Adjust
+Resume
+Freeze
+Reject
+Assess
+Advise
+Transform
+Predict
+Fold
+Conclude
+Propose
+Behave
+Beg
+Warn
+Disagree
+Arrange
+Retire
+Organize
+Admire
+Insert
+Occupy
+Evaluate
+Weigh
+Construct
+Emerge
+Dip
+Exceed
+Blend
+Slice
+Employ
+Lend
+Rub
+Float
+Threaten
+Stir
+Melt
+Stare
+Squeeze
+Consult
+Spill
+Consume
+Analyze
+Toss
+Confront
+Bake
+Peel
+Attach
+Surround
+Emphasize
+Beware
+Resemble
+Cite
+Persist
+Dissolve
+Commute
+Rinse
+Discard
+Refrigerate
+E-Mail
+Crack
+Reveal
+Collect
+Estimate
+Assist
+Extend
+Exit
+Regret
+Deny
+Knock
+Compete
+Invite
+Shake
+Expand
+Remind
+Involve
+Contribute
+Submit
+Hire
+Spin
+Stretch
+Pretend
+Forgive
+Rely
+Succeed
+Permit
+Explore
+Enable
+Pursue
+Praise
+Proceed
+Volunteer
+Relax
+Breathe
+Climb
+Gather
+Invest
+Drag
+Examine
+Skip
+Stem
+Depend
+Discover
+Crash
+Promote
+Recognize
+Attend
+Witness
+Deserve
+Prefer
+Deliver
+Switch
+Hide
+Excuse
+Smell
+Tip
+Destroy
+Repeat
+Tie
+Survive
+Swear
+Rent
+Lift
+Operate
+Select
+Hunt
+Paint
+Defend
+Ignore
+Rush
+Argue
+Pray
+Suffer
+Rescue
+Celebrate
+Marry
+Grab
+Lock
+Quote
+Confirm
+Encourage
+Steal
+Compare
+Solve
+Belong
+Chase
+Capture
+Recommend
+Earn
+Refuse
+Guarantee
+Arrive
+Comfort
+Participate
+Wash
+Connect
+Define
+Graduate
+Introduce
+Burn
+Manage
+Regard
+Quit
+Shoot
+Grant
+Kick
+Remove
+Struggle
+Mix
+Update
+Determine
+Escape
+Jump
+Discuss
+Perform
+Launch
+Maintain
+Laugh
+Suppose
+Teach
+Cook
+Split
+Feed
+Represent
+Fill
+Fail
+Reserve
+Desire
+Smile
+Pack
+Blame
+Describe
+Cry
+Affect
+Hang
+Assume
+Blow
+Kiss
+Load
+Achieve
+Occur
+Replace
+Contain
+Admit
+Respond
+Print
+Identify
+Sing
+Calm
+Register
+Prepare
+Produce
+Receive
+Draw
+Realize
+Pop
+Throw
+Ride
+Shut
+Prevent
+Score
+Ring
+Benefit
+Correct
+Exist
+Decide
+Bet
+Waste
+Improve
+Guide
+Pull
+Fly
+Apply
+Require
+Develop
+Push
+Prove
+Wake
+Suggest
+Handle
+Feature
+Mention
+Taste
+Limit
+Smoke
+Bear
+Warm
+Treat
+Reduce
+Exercise
+Measure
+Dry
+Appreciate
+Promise
+Grade
+Transfer
+Dress
+Fix
+Ensure
+Sell
+Plant
+Avoid
+Sit
+Wonder
+Touch
+Protect
+Accept
+Imagine
+Click
+Wear
+Separate
+Fit
+Finish
+Enter
+Attempt
+Slow
+Heat
+Challenge
+Serve
+Worry
+Count
+Rise
+Catch
+Comment
+Lie
+Spread
+Create
+Pick
+Cross
+Allow
+Listen
+Search
+Write
+Charge
+Welcome
+Consider
+Double
+Link
+Train
+Focus
+Build
+Beat
+Fear
+Expect
+Approach
+Drop
+Lack
+Travel
+Reach
+Hurt
+Store
+Choose
+Judge
+Spend
+Carry
+Notice
+Dance
+Clean
+Drink
+Explain
+Agree
+Doubt
+Dream
+Remain
+Can
+Like
+See
+Know
+Think
+Go
+Make
+Want
+Need
+Work
+Take
+Say
+Use
+Love
+Come
+Look
+Find
+Own
+State
+Help
+Give
+End
+Feel
+Put
+Name
+Show
+Keep
+Let
+Play
+Point
+Change
+Care
+Mean
+Live
+Head
+Tell
+Start
+Order
+Call
+Read
+Support
+Thank
+Stop
+Open
+Believe
+Run
+Try
+Become
+Hope
+Talk
+Close
+Wait
+Matter
+Act
+Remember
+Cause
+Ask
+Pay
+Understand
+Hit
+Turn
+Win
+Leave
+Light
+Move
+Stay
+Watch
+Meet
+Deal
+List
+Study
+Fire
+Check
+Force
+Plan
+Bring
+Return
+Buy
+Present
+Miss
+Rest
+Program
+Include
+Fight
+Cost
+Hear
+Cut
+Sense
+Test
+Press
+Wish
+Trade
+Hold
+Record
+Guess
+Answer
+Follow
+Learn
+Break
+Happen
+Design
+Share
+Eat
+Die
+Step
+Lower
+Send
+Fall
+Provide
+Stand
+Risk
+Trust
+Increase
+Save
+Review
+Kill
+Drive
+Continue
+Complete
+Release
+Hate
+Add
+Respect
+Seem
+Attack
+Vote
+Sign
+Walk
+Contact
+Lose
+Access
+Offer
+Visit
+Sleep
+Race
+Forget
+Speak
+Enjoy

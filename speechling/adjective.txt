@@ -1,499 +1,499 @@
-Mutual	Mutuo	
-Classical	Clásico	
-Unlikely	Poco probable	
-Dependent	Dependiente	
-Radical	Radical	
-Crucial	Crucial	
-Residential	Residencial	
-Conventional	Convencional	
-Enormous	Enorme	
-Aggressive	Agresivo	
-Steady	Estable	
-Alleged	Supuesto	
-Moderate	Moderado	
-Grateful	Agradecido	
-Purple	Púrpura	
-Psychological	Psicológico	
-Vulnerable	Vulnerable	
-Reliable	Confiable	
-Wooden	De madera	
-Lonely	Solo	
-Peaceful	Pacífico	
-Remarkable	Notable	
-Artistic	Artístico	
-Racial	Racial	
-Desperate	Desesperado	
-Legitimate	Legítimo	
-Widespread	Extendido	
-Experimental	Experimental	
-Sacred	Sagrado	
-Intelligent	Inteligente	
-Productive	Productivo	
-Surprising	Sorprendente	
-Pleasant	Agradable	
-Strict	Estricto	
-Identical	Idéntico	
-Chronic	Crónico	
-Diverse	Diverso	
-Structural	Estructural	
-Outer	Exterior	
-Bitter	Amargo	
-Slight	Ligero	
-Outdoor	Al aire libre	
-Handsome	Guapo	
-Mainstream	Popular	
-Artificial	Artificial	
-Unexpected	Inesperado	
-Talented	Talentoso	
-Wealthy	Rico	
-Controversial	Controversial	
-Generous	Generoso	
-Challenging	Desafiante	
-Precise	Preciso	
-Eligible	Elegible	
-Homeless	Sin hogar	
-Toxic	Tóxico	
-Uncomfortable	Incómodo	
-Realistic	Realista	
-Elderly	Mayor	
-Harsh	Duro	
-Shy	Tímido	
-Unfair	Injusto	
-Meaningful	Significativo	
-Invisible	Invisible	
-Endless	Infinito	
-Flexible	Flexible	
-Modest	Modesto	
-Ethical	Ético	
-Fascinating	Fascinante	
-Bare	Descubierto	
-Deadly	Mortal	
-Occasional	Ocasional	
-Sophisticated	Sofisticado	
-Freezing	Helado	
-Gentle	Amable	
-Subtle	Sutil	
-Mild	Leve	
-Tragic	Trágico	
-Casual	Casual	
-Pale	Pálido	
-Affordable	Asequible	
-Tender	Sensible	
-Theoretical	Teórico	
-Athletic	Atlético	
-Overwhelming	Abrumador	
-Ambitious	Ambicioso	
-Shallow	Poco profundo	
-Full-time	Tiempo completo	
-Steep	Empinado	
-Dried	Seco	
-Eager	Entusiasta	
-Delicate	Delicado	
-Elegant	Elegante	
-Suburban	Suburbano	
-Optimistic	Optimista	
-Boiling	Hirviendo	
-Long-term	A largo plazo	
-Short-term	Corto plazo	
-Plain	Simple	
-Helpful	Útil	
-Impressive	Impresionante	
-Dramatic	Dramático	
-Substantial	Sustancial	
-Vital	Vital	
-Romantic	Romántico	
-Gray	Gris	
-Innocent	Inocente	
-Organic	Orgánico	
-Disappointed	Decepcionado	
-Monthly	Mensual	
-Extraordinary	Extraordinario	
-Ugly	Feo	
-Odd	Raro	
-Narrow	Estrecho	
-Valid	Válido	
-Thick	Grueso	
-Sudden	Repentino	
-Retired	Jubilado	
-Asleep	Dormido	
-Confident	Confidente	
-Smooth	Suave	
-Silly	Tonto	
-Ongoing	En curso	
-Literary	Literario	
-Biological	Biológico	
-Prominent	Prominente	
-Precious	Precioso	
-Mechanical	Mecánico	
-Decent	Decente	
-Defensive	Defensivo	
-Acceptable	Aceptable	
-Intellectual	Intelectual	
-Genuine	Genuino	
-Comprehensive	Extenso	
-So-called	Así llamado	
-Automatic	Automático	
-Virtual	Virtual	
-Painful	Doloroso	
-Frozen	Congelado	
-Scary	De miedo	
-Naked	Desnudo	
-Tiny	Pequeño	
-Universal	Universal	
-Incredible	Increíble	
-Tight	Ajustado	
-Academic	Académico	
-Attractive	Atractivo	
-Brief	Breve	
-Fake	Falso	
-Musical	Musical	
-Violent	Violento	
-Brilliant	Brillante	
-Raw	Crudo	
-Blind	Ciego	
-Historic	Histórico	
-Pregnant	Embarazada	
-Loud	Alto	
-Exciting	Emocionante	
-Stable	Estable	
-Extensive	Extenso	
-Ideal	Ideal	
-Wise	Sabio	
-Wet	Mojado	
-Temporary	Temporal	
-Detailed	Detallado	
-Exact	Exacto	
-Hungry	Hambriento	
-Valuable	Valioso	
-Moral	Moral	
-Solar	Solar	
-Exclusive	Exclusivo	
-Rough	Difícil	
-Curious	Curioso	
-Weekly	Semanal	
-Inner	Interno	
-Consistent	Consistente	
-Sharp	Afilado	
-Unusual	Inusual	
-Complicated	Complicado	
-Nervous	Nervioso	
-Sensitive	Sensible	
-Superior	Superior	
-Pink	Rosado	
-Horrible	Horrible	
-Pleased	Satisfecho	
-Awful	Horrible	
-Loose	Suelto	
-Offensive	Ofensivo	
-Visible	Visible	
-Remote	Remoto	
-Intense	Intenso	
-Strategic	Estratégico	
-Ordinary	Ordinario	
-Silent	Silencioso	
-Efficient	Eficiente	
-Ridiculous	Ridículo	
-Thin	Delgado	
-Cute	Lindo	
-Nearby	Cerca	
-Competitive	Competitivo	
-Practical	Práctico	
-Experienced	Experimentado	
-False	Falso	
-Estimated	Estimado	
-Surprised	Sorprendido	
-Drunk	Borracho	
-Comfortable	Cómodo	
-Secure	Seguro	
-Emotional	Emocional	
-Classic	Clásico	
-Capable	Capaz	
-Illegal	Ilegal	
-Maximum	Máximo	
-Medium	Mediano	
-Relevant	Relevante	
-Essential	Esencial	
-Minor	Menor	
-Creative	Creativo	
-Scared	Asustado	
-Soft	Suave	
-Extreme	Extremo	
-Electric	Eléctrico	
-Permanent	Permanente	
-Worried	Preocupado	
-Familiar	Familiar	
-Reasonable	Razonable	
-Empty	Vacío	
-Careful	Cuidadoso	
-Guilty	Culpable	
-Typical	Típico	
-Pure	Puro	
-Usual	Usual	
-Immediate	Inmediato	
-Severe	Severo	
-Conservative	Conservador	
-Orange	Naranja	
-Bright	Brillante	
-Cheap	Barato	
-Upset	Enojado	
-Random	Aleatorio	
-Unknown	Desconocido	
-Accurate	Preciso	
-Constant	Constante	
-Administrative	Administrativo	
-Unlike	Diferente	
-Tall	Alto	
-Formal	Formal	
-Electronic	Electrónico	
-Dirty	Sucio	
-Scientific	Científico	
-Firm	Firme	
-Lucky	Afortunado	
-Patient	Paciente	
-Alive	Vivo	
-Proud	Orgulloso	
-Smart	Inteligente	
-Unique	Único	
-Internal	Interno	
-Excellent	Excelente	
-Rare	Raro	
-Upper	Superior	
-Afraid	Asustado	
-Tough	Duro	
-Technical	Técnico	
-Mad	Enojado	
-Warm	Cálido	
-Dry	Seco	
-Equal	Igual	
-Advanced	Avanzado	
-Alternative	Alternativo	
-Terrible	Terrible	
-Flat	Plano	
-Appropriate	Apropiado	
-Willing	Dispuesto	
-Busy	Ocupado	
-Numerous	Numeroso	
-Honest	Honesto	
-Minimum	Mínimo	
-External	Externo	
-Native	Nativo	
-Tired	Cansado	
-Weak	Débil	
-Solid	Sólido	
-Environmental	Ambiental	
-Armed	Armado	
-Friendly	Amistoso	
-Lovely	Encantador	
-Yellow	Amarillo	
-Angry	Enojado	
-Unable	Incapaz	
-Strange	Extraño	
-Massive	Masivo	
-Expensive	Caro	
-Rural	Rural	
-Excited	Emocionado	
-Obvious	Obvio	
-Quiet	Tranquilo	
-Fit	En forma	
-Effective	Efectivo	
-Slow	Lento	
-Multiple	Múltiple	
-Actual	Real	
-Fat	Gordo	
-Powerful	Poderoso	
-Critical	Crítico	
-Southern	Sur	
-Bottom	Fondo	
-Weird	Raro	
-Fresh	Fresco	
-Impossible	Imposible	
-Mobile	Móvil	
-Wild	Silvestre	
-Aware	Enterado	
-Negative	Negativo	
-Eastern	Oriental	
-Correct	Correcto	
-Sad	Triste	
-Healthy	Saludable	
-Useful	Útil	
-Historical	Histórico	
-Dangerous	Peligroso	
-Evil	Malvado	
-Wonderful	Maravilloso	
-Latest	Último	
-Female	Mujer	
-Global	Global	
-Professional	Profesional	
-Brown	Marrón	
-Physical	Físico	
-Independent	Independiente	
-Fair	Justo	
-Direct	Directo	
-Wide	Amplio	
-Stupid	Estúpido	
-Content	Contento	
-Religious	Religioso	
-Interesting	Interesante	
-Secret	Secreto	
-Active	Activo	
-Heavy	Pesado	
-Successful	Exitoso	
-Quick	Rápido	
-Additional	Adicional	
-Clean	Limpio	
-Basic	Básico	
-Northern	Norte	
-Closed	Cerrado	
-Annual	Anual	
-Interested	Interesado	
-Rich	Rico	
-Complex	Complejo	
-Glad	Contento	
-Senior	Mayor	
-Male	Macho	
-Extra	Extra	
-Sweet	Dulce	
-Broken	Roto	
-Famous	Famoso	
-Favorite	Favorito	
-Overall	En general	
-Sick	Enfermo	
-Separate	Separado	
-New	Nuevo	
-Other	Otro	
-Only	Único	
-Good	Bueno	
-Well	Bien	
-Right	Derecha	
-Great	Estupendo	
-Used	Usado	
-Long	Largo	
-Best	Mejor	
-Old	Viejo	
-High	Alto	
-Left	Izquierda	
-Big	Grande	
-Sure	Seguro	
-Different	Diferente	
-Public	Público	
-Real	Real	
-Free	Gratis	
-General	General	
-Mean	Malo	
-Bad	Malo	
-Small	Pequeño	
-Following	Siguiente	
-Later	Más tarde	
-Top	Superior	
-Far	Lejos	
-Full	Lleno	
-Hard	Difícil	
-Open	Abierto	
-Whole	Todo	
-Important	Importante	
-International	Internacional	
-White	Blanco	
-Early	Temprano	
-Social	Social	
-Young	Joven	
-American	Americano	
-Black	Negro	
-True	Verdadero	
-Able	Disponible	
-Local	Local	
-Large	Gran	
-Lost	Perdido	
-Possible	Posible	
-Wrong	Equivocado	
-Nice	Amable	
-Single	Soltero	
-Close	Cerca	
-Late	Tarde	
-Due	Debido	
-Pretty	Bonito	
-Light	Liviano	
-Major	Importante	
-Special	Especial	
-Low	Bajo	
-Red	Rojo	
-Living	Viviente	
-Happy	Feliz	
-Short	Bajo	
-Final	Final	
-Main	Principal	
-Near	Cerca	
-Front	Frente	
-Outside	Afuera	
-French	Francés	
-Clear	Claro	
-Easy	Fácil	
-Available	Disponible	
-Sorry	Arrepentido	
-Ready	Listo	
-Common	Común	
-Strong	Fuerte	
-Similar	Similar	
-Fun	Divertido	
-Official	Oficial	
-Personal	Personal	
-Certain	Seguro	
-Economic	Económico	
-Online	En línea	
-Fine	Bien	
-Dead	Muerto	
-Likely	Probable	
-Middle	Medio	
-Private	Privado	
-Beautiful	Hermoso	
-Alone	Solo	
-Original	Original	
-Average	Promedio	
-Various	Varios	
-Foreign	Extranjero	
-Round	Redondo	
-Cool	Fresco	
-Key	Clave	
-Serious	Serio	
-Natural	Natural	
-Difficult	Difícil	
-Blue	Azul	
-Financial	Financiero	
-Perfect	Perfecto	
-Simple	Simple	
-Poor	Pobre	
-Hot	Caliente	
-Green	Verde	
-Okay	Okey	
-Fast	Rápido	
-Related	Relacionado	
-Complete	Completo	
-Legal	Legal	
-Particular	Particular	
-Modern	Moderno	
-Daily	Diario	
-Necessary	Necesario	
-Entire	Todo	
-Specific	Específico	
-Crazy	Loco	
-Normal	Normal	
-Missing	Desaparecido	
-Dark	Oscuro	
-Western	Occidental	
-Married	Casado	
-Standard	Estándar	
-Recent	Reciente	
-Cold	Frío	
-Popular	Popular	
-Safe	Seguro	
-Straight	Recto	
-Potential	Potencial	
-Limited	Limitado	
-Previous	Anterior	
-Amazing	Asombroso	
-Significant	Significativo	
-Expected	Esperado	
-Deep	Profundo	
-Funny	Gracioso	
-Positive	Positivo	
-Huge	Enorme	
-Continued	Continuo	
+Mutual
+Classical
+Unlikely
+Dependent
+Radical
+Crucial
+Residential
+Conventional
+Enormous
+Aggressive
+Steady
+Alleged
+Moderate
+Grateful
+Purple
+Psychological
+Vulnerable
+Reliable
+Wooden
+Lonely
+Peaceful
+Remarkable
+Artistic
+Racial
+Desperate
+Legitimate
+Widespread
+Experimental
+Sacred
+Intelligent
+Productive
+Surprising
+Pleasant
+Strict
+Identical
+Chronic
+Diverse
+Structural
+Outer
+Bitter
+Slight
+Outdoor
+Handsome
+Mainstream
+Artificial
+Unexpected
+Talented
+Wealthy
+Controversial
+Generous
+Challenging
+Precise
+Eligible
+Homeless
+Toxic
+Uncomfortable
+Realistic
+Elderly
+Harsh
+Shy
+Unfair
+Meaningful
+Invisible
+Endless
+Flexible
+Modest
+Ethical
+Fascinating
+Bare
+Deadly
+Occasional
+Sophisticated
+Freezing
+Gentle
+Subtle
+Mild
+Tragic
+Casual
+Pale
+Affordable
+Tender
+Theoretical
+Athletic
+Overwhelming
+Ambitious
+Shallow
+Full-time
+Steep
+Dried
+Eager
+Delicate
+Elegant
+Suburban
+Optimistic
+Boiling
+Long-term
+Short-term
+Plain
+Helpful
+Impressive
+Dramatic
+Substantial
+Vital
+Romantic
+Gray
+Innocent
+Organic
+Disappointed
+Monthly
+Extraordinary
+Ugly
+Odd
+Narrow
+Valid
+Thick
+Sudden
+Retired
+Asleep
+Confident
+Smooth
+Silly
+Ongoing
+Literary
+Biological
+Prominent
+Precious
+Mechanical
+Decent
+Defensive
+Acceptable
+Intellectual
+Genuine
+Comprehensive
+So-called
+Automatic
+Virtual
+Painful
+Frozen
+Scary
+Naked
+Tiny
+Universal
+Incredible
+Tight
+Academic
+Attractive
+Brief
+Fake
+Musical
+Violent
+Brilliant
+Raw
+Blind
+Historic
+Pregnant
+Loud
+Exciting
+Stable
+Extensive
+Ideal
+Wise
+Wet
+Temporary
+Detailed
+Exact
+Hungry
+Valuable
+Moral
+Solar
+Exclusive
+Rough
+Curious
+Weekly
+Inner
+Consistent
+Sharp
+Unusual
+Complicated
+Nervous
+Sensitive
+Superior
+Pink
+Horrible
+Pleased
+Awful
+Loose
+Offensive
+Visible
+Remote
+Intense
+Strategic
+Ordinary
+Silent
+Efficient
+Ridiculous
+Thin
+Cute
+Nearby
+Competitive
+Practical
+Experienced
+False
+Estimated
+Surprised
+Drunk
+Comfortable
+Secure
+Emotional
+Classic
+Capable
+Illegal
+Maximum
+Medium
+Relevant
+Essential
+Minor
+Creative
+Scared
+Soft
+Extreme
+Electric
+Permanent
+Worried
+Familiar
+Reasonable
+Empty
+Careful
+Guilty
+Typical
+Pure
+Usual
+Immediate
+Severe
+Conservative
+Orange
+Bright
+Cheap
+Upset
+Random
+Unknown
+Accurate
+Constant
+Administrative
+Unlike
+Tall
+Formal
+Electronic
+Dirty
+Scientific
+Firm
+Lucky
+Patient
+Alive
+Proud
+Smart
+Unique
+Internal
+Excellent
+Rare
+Upper
+Afraid
+Tough
+Technical
+Mad
+Warm
+Dry
+Equal
+Advanced
+Alternative
+Terrible
+Flat
+Appropriate
+Willing
+Busy
+Numerous
+Honest
+Minimum
+External
+Native
+Tired
+Weak
+Solid
+Environmental
+Armed
+Friendly
+Lovely
+Yellow
+Angry
+Unable
+Strange
+Massive
+Expensive
+Rural
+Excited
+Obvious
+Quiet
+Fit
+Effective
+Slow
+Multiple
+Actual
+Fat
+Powerful
+Critical
+Southern
+Bottom
+Weird
+Fresh
+Impossible
+Mobile
+Wild
+Aware
+Negative
+Eastern
+Correct
+Sad
+Healthy
+Useful
+Historical
+Dangerous
+Evil
+Wonderful
+Latest
+Female
+Global
+Professional
+Brown
+Physical
+Independent
+Fair
+Direct
+Wide
+Stupid
+Content
+Religious
+Interesting
+Secret
+Active
+Heavy
+Successful
+Quick
+Additional
+Clean
+Basic
+Northern
+Closed
+Annual
+Interested
+Rich
+Complex
+Glad
+Senior
+Male
+Extra
+Sweet
+Broken
+Famous
+Favorite
+Overall
+Sick
+Separate
+New
+Other
+Only
+Good
+Well
+Right
+Great
+Used
+Long
+Best
+Old
+High
+Left
+Big
+Sure
+Different
+Public
+Real
+Free
+General
+Mean
+Bad
+Small
+Following
+Later
+Top
+Far
+Full
+Hard
+Open
+Whole
+Important
+International
+White
+Early
+Social
+Young
+American
+Black
+True
+Able
+Local
+Large
+Lost
+Possible
+Wrong
+Nice
+Single
+Close
+Late
+Due
+Pretty
+Light
+Major
+Special
+Low
+Red
+Living
+Happy
+Short
+Final
+Main
+Near
+Front
+Outside
+French
+Clear
+Easy
+Available
+Sorry
+Ready
+Common
+Strong
+Similar
+Fun
+Official
+Personal
+Certain
+Economic
+Online
+Fine
+Dead
+Likely
+Middle
+Private
+Beautiful
+Alone
+Original
+Average
+Various
+Foreign
+Round
+Cool
+Key
+Serious
+Natural
+Difficult
+Blue
+Financial
+Perfect
+Simple
+Poor
+Hot
+Green
+Okay
+Fast
+Related
+Complete
+Legal
+Particular
+Modern
+Daily
+Necessary
+Entire
+Specific
+Crazy
+Normal
+Missing
+Dark
+Western
+Married
+Standard
+Recent
+Cold
+Popular
+Safe
+Straight
+Potential
+Limited
+Previous
+Amazing
+Significant
+Expected
+Deep
+Funny
+Positive
+Huge
+Continued

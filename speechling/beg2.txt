@@ -1,176 +1,162 @@
-That means friend.	Eso significa amigo.	
-She dances.	Ella baila.	
-Are you hungry?	¿Tienes hambre?	
-How old are you?	¿Cuántos años tienes?	
-"I don't have money."	No tengo dinero.	
-"I'm allergic."	Soy alérgico.	
-Everything is ready.	Todo está listo.	
-Can you show me?	¿Puedes enseñarme?	
-Do you hear that?	¿Escuchas eso?	
-"What's the address?"	¿Cuál es la dirección?	
-Where are you going?	¿A dónde vas?	
-What matters to you?	¿Qué es lo que le importa?	
-He is athletic.	Él es atlético.	
-Please call me.	Por favor llámame.	
-Happy Birthday.	Feliz Cumpleaños.	
-"That's too much."	Eso es mucho.	
-"I'm thirsty."	Tengo sed.	
-Is everything ok?	¿Todo está bien?	
-"It's raining."	Está lloviendo.	
-Is it raining?	¿Está lloviendo?	
-"It's raining."	Está lloviendo.	
-"No it isn't."	No, no está lloviendo.	
-Is the bank far?	¿El banco está lejos?	
-Is it raining?	¿Está lloviendo?	
-"No, it's not."	No, no está lloviendo.	
-Is it raining?	¿Está lloviendo?	
-Please tell me.	Por favor dime.	
-I have no reason.	No tengo ninguna razón.	
-"It's very important."	Es realmente importante.	
-Thank you miss.	Gracias señorita.	
-Please call me.	Por favor, llámame.	
-"That's too many."	Eso es demasiado.	
-"I'm not afraid."	No tengo miedo.	
-"Who's that man?"	¿Quién es ese hombre?	
-"He's the boss."	Él es el jefe.	
-Are you hungry?	¿Tienes hambre?	
-"I'm not busy."	No estoy ocupado.	
-Very good, thanks.	Muy bien, gracias.	
-Are you American?	¿Eres americano?	
-"No, I'm European."	No, soy europeo.	
-"I don't care."	No me importa.	
-What is the problem?	¿Cuál es el problema?	
-No, thank you.	No, gracias.	
-Turn around.	Date vuelta.	
-Sounds good.	Suena bien.	
-Are you okay?	¿Estás bien?	
-"Don't worry."	No te preocupes.	
-"You're beautiful."	Eres hermosa (hermoso).	
-Who is the president?	¿Quién es el presidente?	
-Excuse me.	Disculpa.	
-Good luck.	Buena suerte.	
-"That's fine."	Está bien.	
-Are you married?	¿Estás casado?	
-"I don't mind."	No me importa.	
-Please come in.	Por favor pasa.	
-Rescue me!	¡Rescáteme!	
-Turn left.	Gira a la izquierda.	
-Business is good.	El negocio está bien.	
-Do you understand?	¿Entiendes?	
-Start the car.	Prende el coche.	
-"I'm tired."	Estoy cansado.	
-Nothing else.	Nada más.	
-"I'm tired."	Estoy cansado.	
-Anything else?	¿Algo más?	
-Take your time.	Tómate tu tiempo.	
-What do you have?	¿Qué tienes?	
-"I don't understand."	No entiendo.	
-"It's over there."	Está por allá.	
-I understand now.	Ahora entiendo.	
-She is pretty.	Ella es bonita.	
-See you later.	Nos vemos luego.	
-Where is he from?	¿De dónde es él?	
-What is the date?	¿Cuál es la fecha?.	
-"I'll pay."	Yo pago.	
-Where are you from?	¿De dónde eres?	
-"I don't want that."	No quiero eso.	
-Are you sick?	¿Estás enfermo?	
-Where are you from?	¿De dónde eres?	
-"I'm from Japan."	Soy de Japón.	
-Where are you from?	¿De dónde eres?	
-Good afternoon.	Buenas tardes.	
-Call the police.	Llámale a la policía.	
-From here to there.	De aquí a allá.	
-"I'm not sure."	No estoy seguro.	
-"I don't want it."	No lo quiero.	
-How much is that?	¿Cuánto cuesta eso?	
-"I'm hungry."	Tengo hambre.	
-Should I wait?	¿Debería esperar?	
-Can I help you?	¿Puedo ayudarte?	
-Take a chance.	Toma la oportunidad.	
-Have you arrived?	¿Ya llegaste?	
-"That's not right."	Eso no está bien.	
-How much is it?	¿Cuánto es?	
-Are you afraid?	¿Tienes miedo?	
-"We're late."	Vamos tarde.	
-I have a cold.	Tengo un resfriado.	
-Are you busy?	¿Estás ocupado?	
-Are you tired?	¿Estás cansado?	
-"No, I'm not."	No lo estoy.	
-Is he drunk?	¿Él está borracho?	
-Are you comfortable?	¿Estás cómodo?	
-Hurry up!	¡Dese prisa!	
-"I'll take it."	Yo lo llevo.	
-How many people?	¿Cuántas personas?	
-"It's delicious!"	Está delicioso.	
-"I've been there."	He estado ahí.	
-Open the door.	Abre la puerta.	
-"What's wrong?"	¿Qué pasa?	
-"What's the matter?"	¿Cuál es el problema?	
-How much is this?	¿Cuánto cuesta esto?	
-Are they married?	¿Ellos están casados?	
-You are incredible.	Eres increíble.	
-How long is it?	¿Qué tan largo es?	
-Am I late?	¿Llegué tarde?	
-"No, you're on time."	No, llegas a tiempo.	
-Are you pregnant?	¿Está embarazada?	
-That is my room.	Esa es mi habitación.	
-Now or later?	¿Ahora o más tarde?	
-I was in the library.	Estaba en la librería.	
-Are you hungry?	¿Está hambriento?	
-Yes, I am.	Sí, sí tengo.	
-"This doesn't work."	Esto no funciona.	
-Where is the bank?	¿Dónde está el banco?.	
-Where have you been?	¿Dónde has estado?	
-Calm down.	Cálmese.	
-Nine plus two is eleven.	Nueve más dos son once.	
-Near the bank.	Cerca del banco.	
-"I'm bored."	Estoy aburrido.	
-Where are you from?	¿De dónde eres?	
-She reads.	Ella lee.	
-"No, he's out."	No, salió.	
-Behind the bank.	Detrás del banco.	
-"I've seen it."	Ya lo he visto.	
-"I'm just looking."	Solo estoy viendo.	
-That looks great.	Eso se ve genial.	
-How was the movie?	¿Cómo estuvo la película?	
-See you tomorrow.	Nos vemos mañana.	
-Take it outside.	Llévalo afuera.	
-He is asleep.	Él está dormido.	
-See you tonight.	Nos vemos en la noche.	
-"I don't think so."	No lo creo.	
-"That's alright."	Eso está bien.	
-Where is the hospital?	¿Dónde está el hospital?	
-Do you smoke?	¿Fumas?	
-Do you believe that?	¿Tú crees eso?	
-"I'm fine, and you?"	Estoy bien ¿Y tú?	
-Open the window.	Abre la ventana.	
-Thanks for everything.	Gracias por todo.	
-That looks old.	Eso se ve viejo.	
-"I'm hungry."	Tengo hambre.	
-She is smart.	Ella es inteligente.	
-What do you think?	¿Qué piensas?	
-"That's not enough."	Eso no es suficiente.	
-Someone is coming.	Alguien viene.	
-"Let's share."	Hay que compartir.	
-Outside the hotel.	Afuera del hotel.	
-Do you know her?	¿La conoces?	
-Try to say it.	Intenta decirlo.	
-"I'm not married."	No estoy casado.	
-Everything is possible.	Todo es posible.	
-Who is that woman?	¿Quién es esa mujer?	
-Is this your book?	¿Este es tu libro?	
-Is there a tour?	¿Hay algún tour?	
-How far is it?	¿Qué tan lejos está?	
-Where is the airport?	¿Dónde está el aeropuerto?	
-How was the trip?	¿Cómo estuvo el viaje?	
-What are you doing?	¿Qué estás haciendo?	
-How old are you?	¿Cuántos años tienes?	
-What are you doing?	¿Qué estás haciendo?	
-How do you know?	¿Cómo sabes?	
-Can you help me?	¿Puedes ayudarme?	
-You appear well.	Usted aparece bien.	
-"He's laughing."	Él está riendo.	
-Which one is the best?	¿Cuál de estos es mejor?	
-Where are you going?	¿A dónde vas?	
-Which one is better?	¿Cuál es mejor?	
+That means friend.
+She dances.
+Are you hungry?
+How old are you?
+"I don't have money."
+"I'm allergic."
+Everything is ready.
+Can you show me?
+Do you hear that?
+"What's the address?"
+Where are you going?
+What matters to you?
+He is athletic.
+Please call me.
+Happy Birthday.
+"That's too much."
+"I'm thirsty."
+Is everything ok?
+"It's raining."
+Is it raining?
+"No it isn't."
+Is the bank far?
+"No, it's not."
+Please tell me.
+I have no reason.
+"It's very important."
+Thank you miss.
+"That's too many."
+"I'm not afraid."
+"Who's that man?"
+"He's the boss."
+"I'm not busy."
+Very good, thanks.
+Are you American?
+"No, I'm European."
+"I don't care."
+What is the problem?
+No, thank you.
+Turn around.
+Sounds good.
+Are you okay?
+"Don't worry."
+"You're beautiful."
+Who is the president?
+Excuse me.
+Good luck.
+"That's fine."
+Are you married?
+"I don't mind."
+Please come in.
+Rescue me!
+Turn left.
+Business is good.
+Do you understand?
+Start the car.
+"I'm tired."
+Nothing else.
+Anything else?
+Take your time.
+What do you have?
+"I don't understand."
+"It's over there."
+I understand now.
+She is pretty.
+See you later.
+Where is he from?
+What is the date?
+"I'll pay."
+Where are you from?
+"I don't want that."
+Are you sick?
+"I'm from Japan."
+Good afternoon.
+Call the police.
+From here to there.
+"I'm not sure."
+"I don't want it."
+How much is that?
+"I'm hungry."
+Should I wait?
+Can I help you?
+Take a chance.
+Have you arrived?
+"That's not right."
+How much is it?
+Are you afraid?
+"We're late."
+I have a cold.
+Are you busy?
+Are you tired?
+"No, I'm not."
+Is he drunk?
+Are you comfortable?
+Hurry up!
+"I'll take it."
+How many people?
+"It's delicious!"
+"I've been there."
+Open the door.
+"What's wrong?"
+"What's the matter?"
+How much is this?
+Are they married?
+You are incredible.
+How long is it?
+Am I late?
+"No, you're on time."
+Are you pregnant?
+That is my room.
+Now or later?
+I was in the library.
+Yes, I am.
+"This doesn't work."
+Where is the bank?
+Where have you been?
+Calm down.
+Nine plus two is eleven.
+Near the bank.
+"I'm bored."
+She reads.
+"No, he's out."
+Behind the bank.
+"I've seen it."
+"I'm just looking."
+That looks great.
+How was the movie?
+See you tomorrow.
+Take it outside.
+He is asleep.
+See you tonight.
+"I don't think so."
+"That's alright."
+Where is the hospital?
+Do you smoke?
+Do you believe that?
+"I'm fine, and you?"
+Open the window.
+Thanks for everything.
+That looks old.
+She is smart.
+What do you think?
+"That's not enough."
+Someone is coming.
+"Let's share."
+Outside the hotel.
+Do you know her?
+Try to say it.
+"I'm not married."
+Everything is possible.
+Who is that woman?
+Is this your book?
+Is there a tour?
+How far is it?
+Where is the airport?
+How was the trip?
+What are you doing?
+How do you know?
+Can you help me?
+You appear well.
+"He's laughing."
+Which one is the best?
+Which one is better?

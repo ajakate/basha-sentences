@@ -1,499 +1,498 @@
-Sugar	Azúcar	
-Distance	Distancia	
-Path	Camino	
-Challenge	Desafío	
-Factor	Factor	
-Beach	Playa	
-Advantage	Ventaja	
-Condition	Condición	
-Advantage	Ventaja	
-Brother	Hermano	
-Bag	Bolso	
-Dream	Sueño	
-Band	Banda	
-Plastic	Plástico	
-Change	Cambio	
-Coach	Entrenador	
-Help	Ayuda	
-Call	Llamada	
-Jacket	Chaqueta	
-Mission	Misión	
-Bar	Bar	
-Influence	Influencia	
-Judge	Juez	
-General	General	
-Corner	Esquina	
-Fear	Miedo	
-Interview	Entrevista	
-Strength	Fuerza	
-Deal	Trato	
-Play	Obra	
-Progress	Progreso	
-Rest	Resto	
-Battle	Batalla	
-Support	Apoyo	
-Chair	Silla	
-Wine	Vino	
-Report	Reporte	
-Patient	Paciente	
-Grade	Nota	
-Cost	Costo	
-Press	Prensa	
-Cat	Gato	
-Start	Comienzo	
-Conference	Conferencia	
-Turn	Turno	
-Lot	Mucho	
-Plane	Avión	
-Neck	Cuello	
-Shoulder	Hombro	
-Station	Estación	
-Right	Derecho	
-Break	Vacaciones	
-Present	Regalo	
-Potential	Potencial	
-Cold	Resfriado	
-Center	Centro	
-TV	Televisión	
-Color	Color	
-Concern	Preocupación	
-Drug	Droga	
-Secret	Secreto	
-Defense	Defensa	
-Congress	Congreso	
-Gun	Arma	
-Survey	Encuesta	
-Learning	Aprendizaje	
-Approach	Enfoque	
-Conflict	Conflicto	
-Crime	Crimen	
-Behavior	Comportamiento	
-Treatment	Tratamiento	
-Movement	Movimiento	
-Firm	Firma	
-Museum	Museo	
-Smile	Sonrisa	
-Labor	Trabajo	
-Violence	Violencia	
-Vote	Voto	
-Majority	Mayoría	
-Surface	Superficie	
-Faith	Fe	
-Photograph	Fotografía	
-Crisis	Crisis	
-Prison	Prisión	
-Crowd	Multitud	
-Attorney	Abogado	
-Vision	Visión	
-Artist	Artista	
-Threat	Amenaza	
-Forest	Bosque	
-Murder	Asesinato	
-Valley	Valle	
-Authority	Autoridad	
-Generation	Generación	
-Investigation	Investigación	
-Intelligence	Inteligencia	
-Neighborhood	Barrio	
-Use	Usar	
-Sea	Mar	
-Trip	Viaje	
-Letter	Carta	
-Pain	Dolor	
-Foot	Pie	
-Race	Carrera	
-Daughter	Hija	
-Peace	Paz	
-Screen	Pantalla	
-Guy	Chico	
-Text	Texto	
-Officer	Oficial	
-Weather	Clima	
-Window	Ventana	
-Tree	Árbol	
-Mouth	Boca	
-Floor	Piso	
-Bowl	Taza	
-Look	Mirada	
-Account	Cuenta	
-Feeling	Sentimiento	
-Trouble	Problema	
-Kitchen	Cocina	
-Shape	Forma	
-Doctor	Doctor	
-Husband	Esposo	
-Public	Público	
-Status	Estado	
-Gold	Oro	
-Structure	Estructura	
-Seat	Asiento	
-Machine	Máquina	
-Show	Show	
-Arm	Brazo	
-Character	Carácter	
-Degree	Título	
-Human	Humano	
-Title	Título	
-Meeting	Reunión	
-District	Distrito	
-Past	Pasado	
-Purpose	Propósito	
-Breath	Respiración	
-Career	Carrera	
-Card	Tarjeta	
-Village	Pueblo	
-Court	Cancha	
-Choice	Decisión	
-Impact	Impacto	
-Half	Mitad	
-Construction	Construcción	
-Ice	Hielo	
-Sort	Tipo	
-Gas	Gasolina	
-Evidence	Evidencia	
-Restaurant	Restaurante	
-Subject	Tema	
-Street	Calle	
-Pressure	Presión	
-Campaign	Campaña	
-Style	Estilo	
-Garden	Jardín	
-Conversation	Conversación	
-Post	Publicación	
-Lack	Falta	
-Author	Autor	
-Rule	Regla	
-Skin	Piel	
-Cup	Taza	
-Stage	Escenario	
-Bill	Billete	
-Hope	Esperanza	
-Wind	Viento	
-Bed	Cama	
-Material	Material	
-Bottom	Fondo	
-Beginning	Comienzo	
-Project	Proyecto	
-Sign	Letrero	
-Salt	Sal	
-Stuff	Cosa	
-Task	Tarea	
-Standard	Estándar	
-Boy	Niño	
-Credit	Crédito	
-Sky	Cielo	
-Review	Crítica	
-Network	Red	
-Glass	Copa	
-Date	Fecha	
-Egg	Huevo	
-Brain	Cerebro	
-Weight	Peso	
-Speed	Velocidad	
-Budget	Presupuesto	
-Debate	Debate	
-Edge	Borde	
-Plant	Planta	
-Source	Fuente	
-Culture	Cultura	
-Door	Puerta	
-Cause	Causa	
-Radio	Radio	
-Piece	Pieza	
-Earth	Tierra	
-Fat	Grasa	
-Training	Entrenamiento	
-Chance	Probabilidad	
-River	Río	
-Importance	Importancia	
-Bit	Poco	
-Sample	Muestra	
-Eye	Ojo	
-Amount	Cantidad	
-Argument	Argumento	
-Image	Imagen	
-Leadership	Liderazgo	
-Mother	Madre	
-Team	Equipo	
-Friend	Amigo	
-Box	Caja	
-Party	Fiesta	
-Couple	Par	
-Bank	Banco	
-Access	Acceso	
-Dog	Perro	
-Park	Parque	
-Picture	Foto	
-Candidate	Candidato	
-Presence	Presencia	
-Effect	Efecto	
-Answer	Responder	
-Position	Posición	
-Step	Paso	
-Classroom	Aula	
-Father	Padre	
-Rock	Roca	
-Ground	Suelo	
-Store	Tienda	
-Star	Estrella	
-Design	Diseño	
-Perspective	Perspectiva	
-Professor	Profesor	
-Land	Tierra	
-Example	Ejemplo	
-Responsibility	Responsabilidad	
-Baby	Bebé	
-Section	Sección	
-Ball	Pelota	
-Wall	Pared	
-Apartment	Apartamento	
-Opinion	Opinión	
-Advice	Consejo	
-Program	Programa	
-Test	Prueba	
-Rate	Tasa	
-Price	Precio	
-Collection	Colección	
-Size	Tamaño	
-Committee	Comité	
-Value	Valor	
-Table	Mesa	
-Issue	Asunto	
-Site	Sitio	
-Manager	Mánager	
-Discussion	Discusión	
-Heat	Calor	
-Interest	Interés	
-Model	Modelo	
-Act	Acto	
-Course	Curso	
-Speech	Discurso	
-Question	Pregunta	
-Action	Acción	
-Board	Tablero	
-Matter	Cuestión	
-Experience	Experiencia	
-View	Vista	
-Economy	Economía	
-Key	Llave	
-Order	Orden	
-Agreement	Acuerdo	
-Fire	Fuego	
-Trade	Comercio	
-Coffee	Café	
-Sound	Sonido	
-Sun	Sol	
-Period	Período	
-Voice	Voz	
-Sister	Hermana	
-Practice	Práctica	
-Record	Récord	
-Competition	Competencia	
-Building	Edificio	
-Foundation	Fundación	
-Page	Página	
-Figure	Figura	
-Result	Resultado	
-Meaning	Significado	
-Failure	Fracaso	
-Plan	Plan	
-Research	Investigación	
-Risk	Riesgo	
-Magazine	Revista	
-Administration	Administración	
-Equipment	Equipo	
-Context	Contexto	
-Flight	Vuelo	
-Force	Fuerza	
-Future	Futuro	
-Tax	Impuesto	
-Secretary	Secretaria	
-Hospital	Hospital	
-Service	Servicio	
-Class	Clase	
-Driver	Conductor	
-Dinner	Cena	
-Version	Versión	
-List	Lista	
-Reason	Razón	
-Editor	Editor	
-Song	Canción	
-Type	Tipo	
-Space	Espacio	
-Medicine	Medicamento	
-Library	Biblioteca	
-Variety	Variedad	
-War	Guerra	
-Reality	Realidad	
-Age	Edad	
-Organization	Organización	
-Strategy	Estrategia	
-Side	Lado	
-Head	Cabeza	
-Mind	Mente	
-Response	Respuesta	
-Word	Palabra	
-Audience	Audiencia	
-Property	Propiedad	
-Business	Negocio	
-Direction	Dirección	
-Company	Compañía	
-Car	Auto	
-Oil	Aceite	
-Field	Campo	
-Opportunity	Oportunidad	
-Level	Nivel	
-Light	Luz	
-Sense	Sentido	
-Hotel	Hotel	
-Hall	Pasillo	
-Form	Formulario	
-Room	Habitación	
-Leader	Líder	
-Film	Película	
-Process	Proceso	
-Insurance	Seguro	
-Market	Mercado	
-Investment	Inversión	
-Election	Elección	
-Literature	Literatura	
-Face	Cara	
-Memory	Recuerdo	
-Way	Manera	
-World	Mundo	
-Law	Ley	
-Art	Arte	
-Family	Familia	
-Fact	Hecho	
-Thing	Cosa	
-System	Sistema	
-Food	Comida	
-Power	Poder	
-Music	Música	
-Health	Salud	
-Area	Área	
-Love	Amor	
-Story	Historia	
-Idea	Idea	
-News	Noticias	
-Person	Persona	
-History	Historia	
-Country	País	
-Problem	Problema	
-Child	Niño	
-City	Ciudad	
-Government	Gobierno	
-Control	Control	
-Role	Papel	
-Woman	Mujer	
-Policy	Política	
-Office	Oficina	
-Information	Información	
-Moment	Momento	
-Society	Sociedad	
-Community	Comunidad	
-Death	Muerte	
-Road	Camino	
-Science	Ciencia	
-Nature	Naturaleza	
-Paper	Papel	
-Security	Seguridad	
-Video	Video	
-President	Presidente	
-Movie	Película	
-University	Universidad	
-Energy	Energía	
-Phone	Teléfono	
-Army	Ejército	
-Heart	Corazón	
-Education	Educación	
-Industry	Industria	
-Nation	Nación	
-Student	Estudiante	
-Language	Idioma	
-Photo	Foto	
-Ability	Capacidad	
-Reading	Lectura	
-Growth	Crecimiento	
-Development	Desarrollo	
-Computer	Computadora	
-Blood	Sangre	
-Thought	Pensamiento	
-College	Universidad	
-Department	Departamento	
-Truth	Verdad	
-Quality	Calidad	
-Teacher	Maestro	
-Knowledge	Conocimiento	
-County	Condado	
-Analysis	Análisis	
-Goal	Objetivo	
-Theory	Teoría	
-Technology	Tecnología	
-Decision	Decisión	
-Attention	Atención	
-Success	Éxito	
-Safety	Seguridad	
-Work	Trabajo	
-Article	Artículo	
-Hair	Pelo	
-Wife	Esposa	
-Life	Vida	
-Player	Jugador	
-Event	Evento	
-Town	Ciudad	
-Back	Espalda	
-Member	Miembro	
-Son	Hijo	
-Director	Director	
-Disease	Enfermedad	
-Part	Parte	
-Activity	Actividad	
-End	Final	
-Girl	Chica	
-Effort	Esfuerzo	
-Church	Iglesia	
-Home	Hogar	
-Management	Administración	
-Camera	Cámara	
-Job	Trabajo	
-Air	Aire	
-Money	Dinero	
-Place	Lugar	
-Situation	Situación	
-Water	Agua	
-Game	Juego	
-Politics	Política	
-Hand	Mano	
-Writing	Escrito	
-Difference	Diferencia	
-State	Estado	
-Basis	Base	
-Internet	Internet	
-Population	Población	
-Man	Hombre	
-Product	Producto	
-Income	Ingreso	
-Point	Punto	
-Performance	Actuación	
-Book	Libro	
-Group	Grupo	
-Study	Estudio	
-Number	Número	
-Message	Mensaje	
-Body	Cuerpo	
-House	Casa	
-Freedom	Libertad	
-Top	Parte Superior	
-Relationship	Relación	
-Marriage	Matrimonio	
-Kind	Tipo	
-School	Escuela	
-Care	Importar	
-Agency	Agencia	
-Case	Caso	
-Name	Nombre	
-Line	Fila	
-Environment	Ambiente	
-Region	Región	
-Cancer	Cáncer	
+Sugar
+Distance
+Path
+Challenge
+Factor
+Beach
+Advantage
+Condition
+Brother
+Bag
+Dream
+Band
+Plastic
+Change
+Coach
+Help
+Call
+Jacket
+Mission
+Bar
+Influence
+Judge
+General
+Corner
+Fear
+Interview
+Strength
+Deal
+Play
+Progress
+Rest
+Battle
+Support
+Chair
+Wine
+Report
+Patient
+Grade
+Cost
+Press
+Cat
+Start
+Conference
+Turn
+Lot
+Plane
+Neck
+Shoulder
+Station
+Right
+Break
+Present
+Potential
+Cold
+Center
+TV
+Color
+Concern
+Drug
+Secret
+Defense
+Congress
+Gun
+Survey
+Learning
+Approach
+Conflict
+Crime
+Behavior
+Treatment
+Movement
+Firm
+Museum
+Smile
+Labor
+Violence
+Vote
+Majority
+Surface
+Faith
+Photograph
+Crisis
+Prison
+Crowd
+Attorney
+Vision
+Artist
+Threat
+Forest
+Murder
+Valley
+Authority
+Generation
+Investigation
+Intelligence
+Neighborhood
+Use
+Sea
+Trip
+Letter
+Pain
+Foot
+Race
+Daughter
+Peace
+Screen
+Guy
+Text
+Officer
+Weather
+Window
+Tree
+Mouth
+Floor
+Bowl
+Look
+Account
+Feeling
+Trouble
+Kitchen
+Shape
+Doctor
+Husband
+Public
+Status
+Gold
+Structure
+Seat
+Machine
+Show
+Arm
+Character
+Degree
+Human
+Title
+Meeting
+District
+Past
+Purpose
+Breath
+Career
+Card
+Village
+Court
+Choice
+Impact
+Half
+Construction
+Ice
+Sort
+Gas
+Evidence
+Restaurant
+Subject
+Street
+Pressure
+Campaign
+Style
+Garden
+Conversation
+Post
+Lack
+Author
+Rule
+Skin
+Cup
+Stage
+Bill
+Hope
+Wind
+Bed
+Material
+Bottom
+Beginning
+Project
+Sign
+Salt
+Stuff
+Task
+Standard
+Boy
+Credit
+Sky
+Review
+Network
+Glass
+Date
+Egg
+Brain
+Weight
+Speed
+Budget
+Debate
+Edge
+Plant
+Source
+Culture
+Door
+Cause
+Radio
+Piece
+Earth
+Fat
+Training
+Chance
+River
+Importance
+Bit
+Sample
+Eye
+Amount
+Argument
+Image
+Leadership
+Mother
+Team
+Friend
+Box
+Party
+Couple
+Bank
+Access
+Dog
+Park
+Picture
+Candidate
+Presence
+Effect
+Answer
+Position
+Step
+Classroom
+Father
+Rock
+Ground
+Store
+Star
+Design
+Perspective
+Professor
+Land
+Example
+Responsibility
+Baby
+Section
+Ball
+Wall
+Apartment
+Opinion
+Advice
+Program
+Test
+Rate
+Price
+Collection
+Size
+Committee
+Value
+Table
+Issue
+Site
+Manager
+Discussion
+Heat
+Interest
+Model
+Act
+Course
+Speech
+Question
+Action
+Board
+Matter
+Experience
+View
+Economy
+Key
+Order
+Agreement
+Fire
+Trade
+Coffee
+Sound
+Sun
+Period
+Voice
+Sister
+Practice
+Record
+Competition
+Building
+Foundation
+Page
+Figure
+Result
+Meaning
+Failure
+Plan
+Research
+Risk
+Magazine
+Administration
+Equipment
+Context
+Flight
+Force
+Future
+Tax
+Secretary
+Hospital
+Service
+Class
+Driver
+Dinner
+Version
+List
+Reason
+Editor
+Song
+Type
+Space
+Medicine
+Library
+Variety
+War
+Reality
+Age
+Organization
+Strategy
+Side
+Head
+Mind
+Response
+Word
+Audience
+Property
+Business
+Direction
+Company
+Car
+Oil
+Field
+Opportunity
+Level
+Light
+Sense
+Hotel
+Hall
+Form
+Room
+Leader
+Film
+Process
+Insurance
+Market
+Investment
+Election
+Literature
+Face
+Memory
+Way
+World
+Law
+Art
+Family
+Fact
+Thing
+System
+Food
+Power
+Music
+Health
+Area
+Love
+Story
+Idea
+News
+Person
+History
+Country
+Problem
+Child
+City
+Government
+Control
+Role
+Woman
+Policy
+Office
+Information
+Moment
+Society
+Community
+Death
+Road
+Science
+Nature
+Paper
+Security
+Video
+President
+Movie
+University
+Energy
+Phone
+Army
+Heart
+Education
+Industry
+Nation
+Student
+Language
+Photo
+Ability
+Reading
+Growth
+Development
+Computer
+Blood
+Thought
+College
+Department
+Truth
+Quality
+Teacher
+Knowledge
+County
+Analysis
+Goal
+Theory
+Technology
+Decision
+Attention
+Success
+Safety
+Work
+Article
+Hair
+Wife
+Life
+Player
+Event
+Town
+Back
+Member
+Son
+Director
+Disease
+Part
+Activity
+End
+Girl
+Effort
+Church
+Home
+Management
+Camera
+Job
+Air
+Money
+Place
+Situation
+Water
+Game
+Politics
+Hand
+Writing
+Difference
+State
+Basis
+Internet
+Population
+Man
+Product
+Income
+Point
+Performance
+Book
+Group
+Study
+Number
+Message
+Body
+House
+Freedom
+Top
+Relationship
+Marriage
+Kind
+School
+Care
+Agency
+Case
+Name
+Line
+Environment
+Region
+Cancer
